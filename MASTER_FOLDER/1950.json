@@ -1,26 +1,85 @@
 {
   "year": "1950",
-  "usa": [
-    "<i>Second Red Scare</i>: McCarthyism, the term to describe \"the practice of making unfair allegations or using unfair investigative techniques, especially of pro-Communist activity\" of Senator Joseph McCarthy,<sup id=\"cite_ref-253\" class=\"reference\">[253]</sup> began after heightened fears of Communist influence in America.",
-    "A grand jury found former State Department official and President of the Carnegie Endowment for International Peace Alger Hiss guilty on two counts of perjury in connection with charges that he was a Soviet spy.<sup id=\"cite_ref-254\" class=\"reference\">[254]</sup><sup id=\"cite_ref-255\" class=\"reference\">[255]</sup>",
-    "Senator McCarthy came to national prominence after claiming to have a list of 205 State Department employees who were members of the Communist Party and \"helping to shape [the U.S.'s] foreign policy.\"<sup id=\"cite_ref-256\" class=\"reference\">[256]</sup>",
-    "<i>Korean War</i>: The North Korean military began the Communist lead invasion of South Korea.<sup id=\"cite_ref-257\" class=\"reference\">[257]</sup>",
-    "President Truman ordered U.S. air and naval support to aid South Korea against the Northern lead invasion; prompting the beginning of the U.S. involvement in the Korean War.<sup id=\"cite_ref-258\" class=\"reference\">[258]</sup>",
-    "The McCarran Internal Security Act was enacted, with the House and Senate overriding President Truman's veto of the bill.<sup id=\"cite_ref-259\" class=\"reference\">[259]</sup>",
-    "The comic strip <i>Peanuts</i>, by Charles M. Schulz, was first published.<sup id=\"cite_ref-260\" class=\"reference\">[260]</sup>",
-    "<i>Truman assassination attempt</i>: Two Puerto Rican nationals attempted to assassinate President Harry S. Truman while he stayed at Blair House.<sup id=\"cite_ref-261\" class=\"reference\">[261]</sup>"
+  "USA": [
+    "<i>Second Red Scare</i>: McCarthyism, the term to describe \"the practice of making unfair allegations or using unfair investigative techniques, especially of pro-Communist activity\" of Senator Joseph McCarthy, began after heightened fears of Communist influence in America.",
+    "A grand jury found former State Department official and President of the Carnegie Endowment for International Peace Alger Hiss guilty on two counts of perjury in connection with charges that he was a Soviet spy.",
+    "Senator McCarthy came to national prominence after claiming to have a list of 205 State Department employees who were members of the Communist Party and \"helping to shape [the U.S.'s] foreign policy.\"",
+    "<i>Korean War</i>: The North Korean military began the Communist lead invasion of South Korea.",
+    "President Truman ordered U.S. air and naval support to aid South Korea against the Northern lead invasion; prompting the beginning of the U.S. involvement in the Korean War.",
+    "The McCarran Internal Security Act was enacted, with the House and Senate overriding President Truman's veto of the bill.",
+    "The comic strip <i>Peanuts</i>, by Charles M. Schulz, was first published.",
+    "<i>Truman assassination attempt</i>: Two Puerto Rican nationals attempted to assassinate President Harry S. Truman while he stayed at Blair House."
   ],
-  "india": [
+  "Taiwan": [
+    "Jiang Jieshi admits that he is personally responsible for the loss of the mainland at his inaugural ceremony for resuming the presidency of the Guomindang",
+    "Elections are held at local and provincial levels, but not at the national level",
+    "<i>Landing Operation on Hainan Island</i>: Hainan falls to the Communists."
+  ],
+  "Poland": [
+    "Signing of the Treaty of Zgorzelec"
+  ],
+  "Philippine": [
+    "UST pioneers the television broadcast, only for experimental purposes.",
+    "Radio station DZBB of newly-established Republic Broadcasting System (RBS) under Bob Stewart begins its broadcast.",
+    "The Philippines joins the Korean War, sending over 7,000 troops under the United Nations command.",
+    "Republic Act No. 505 divided old Mindoro into the new provinces of Mindoro Occidental and Mindoro Oriental.",
+    "President Quirino appoints Ramon Magsaysay as Secretary of the Department of National Defense"
+  ],
+  "Nepal": [
+    "Anti-Rana forces based in India form alliance with monarch."
+  ],
+  "Malaysia": [
+    "Bukit Kepong Incident: An armed encounter took place between Communists and the police."
+  ],
+  "Israel": [
+    "The Israeli legislature the Knesset passed the Law of Return, which granted all Jews the right to migrate to and settle in Israel and obtain citizenship."
+  ],
+  "Indonesia": [
+    "Military articulation of doctrines <i>Dwifungsi</i> and <i>Hankamrata</i>: a military role in sociopolitical development as well as security; a requirement that the resources of the people be at the call of the armed forces. (to 1960)",
+    "General Sudirman, commander of Indonesia's armed forces, dies aged 34",
+    "The Republic of South Moluccas (RMS) is proclaimed in Ambon",
+    "Following RUSI endorsement of a new constitution, the federation is dissolved and Sukarno proclaims a unitary state, the 'Republic of Indonesia'.",
+    "The first cabinet of the unitary state is established. It is led by Prime Minister Mohammad Natsir.",
+    "Indonesia becomes the 60th member of the United Nations."
+  ],
+  "India": [
     "India became Republic."
   ],
-  "australia": [
+  "Haiti": [
+    "Dumarsais Estim&#xE9; relinquishes the presidency and is replaced by a provisional government",
+    "Presidential and legislative elections are held; Colonel Paul Magloire becomes the first president of Haiti to be elected directly by the people, the Delegates, and the Senators",
+    "Paul Magloire is sworn in as president"
+  ],
+  "Germany": [
+    "<i>Wirtschaftswunder</i>: <i>The Times</i> first used the term <i>Wirtschaftswunder</i> to refer to the rapid postwar economic growth of West Germany and Austria."
+  ],
+  "Cyprus": [
+    "Archbishop Makarios III was elected the political and spiritual leader of Cyprus, the head of the autocephalous Cypriot Orthodox Church and leader of the campaign for Enosis with the support of Greece."
+  ],
+  "Colombia": [
+    "Laureano G&#xF3;mez Castro is president of Colombia"
+  ],
+  "Burma": [
+    "Burmese Army repels Nationalist Chinese invasion of Shan State (to 1961)"
+  ],
+  "Brazil": [
+    "The Maracan&#xE3; Stadium opens in Rio de Janeiro.",
+    "Brazil hosts the 1950 FIFA World Cup, the local national team is beaten 1&#x2013;2 by Uruguay in the final game.",
+    "First television broadcasting in Brazil by TV Tupi.",
+    "The Brazilian general election is won by the Social Democratic Party, who remain the largest party in both the Chamber of Deputies and the Senate, although they lose their majority in the former. The presidential election is won by former President Get&#xFA;lio Vargas of the Brazilian Labour Party"
+  ],
+  "Belgium": [
+    "Royal Question brought to a head with Belgian monarchy referendum, 1950",
+    "Belgian general election, 1950"
+  ],
+  "Australia": [
     "Australian troops are sent to the Korean War to assist South Korea. (to 1953)"
   ],
-  "argentina": [
+  "Argentina": [
     "First flight of the FMA IAe 33 Pulqui II, the first jet fighter to be entirely developed and built in Latin America.",
     "The National Atomic Energy Commission (<i>Comisi&#xF3;n Nacional de Energ&#xED;a At&#xF3;mica</i>, CNEA) is founded"
   ],
-  "albania": [
+  "Albania": [
     "Britain and the United States begin inserting unsuccessful anticommunist Albanian guerrilla units into Albania.",
     "A new constitution was approved by the People's Assembly, under which Hoxha became minister of defense and foreign minister."
   ]

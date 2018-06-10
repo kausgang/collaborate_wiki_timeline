@@ -1,17 +1,83 @@
 {
   "year": "1969",
-  "usa": [
-    "<i>Operation Menu</i>: The United States began its covert bombings of North Vietnamese positions in Cambodia and Laos.<sup id=\"cite_ref-417\" class=\"reference\">[417]</sup>",
-    "The <i>Stonewall riots</i> took place, beginning after police raided the Stonewall Inn in New York City, which would mark the start of the modern gay liberation movement in the United States.<sup id=\"cite_ref-418\" class=\"reference\">[418]</sup>",
-    "<i>Chappaquiddick incident</i>: Senator Edward M. Kennedy drove off a bridge on his way home from a party on Chappaquiddick Island, killing his passenger, Mary Jo Kopechne.<sup id=\"cite_ref-419\" class=\"reference\">[419]</sup>",
-    "<i>Apollo 11</i>: Americans astronauts Neil Armstrong, Buzz Aldrin and Michael Collins became the first men to land on the moon, with Armstrong becoming the first man to walk on the moon's surface.<sup id=\"cite_ref-420\" class=\"reference\">[420]</sup>",
-    "The <i>Woodstock Festival</i> took place in White Lake, New York, proclaimed as \"three days of peace and music\", it became one of the defining events representing counterculture movement.<sup id=\"cite_ref-421\" class=\"reference\">[421]</sup>",
-    "<i>Vietnamization</i>: President Nixon outlaid his administration's Vietnam policy in response to the Tet Offensive.<sup id=\"cite_ref-422\" class=\"reference\">[422]</sup>",
-    "<i>Sesame Street</i> premiered on National Educational Television.<sup id=\"cite_ref-423\" class=\"reference\">[423]</sup>",
-    "<i>Moratorium to End the War in Vietnam</i>: Over 500,000 peaceful demonstrators protested the Vietnam War in Washington D.C., being the largest anti-war protest in U.S. history.<sup id=\"cite_ref-424\" class=\"reference\">[424]</sup>",
-    "President Nixon announces the withdrawal of 50,000 U.S. troops from Vietnam; reaching the peak level of U.S. troops in Vietnam at 541,000.<sup id=\"cite_ref-425\" class=\"reference\">[425]</sup><sup id=\"cite_ref-426\" class=\"reference\">[426]</sup>"
+  "USA": [
+    "<i>Operation Menu</i>: The United States began its covert bombings of North Vietnamese positions in Cambodia and Laos.",
+    "The <i>Stonewall riots</i> took place, beginning after police raided the Stonewall Inn in New York City, which would mark the start of the modern gay liberation movement in the United States.",
+    "<i>Chappaquiddick incident</i>: Senator Edward M. Kennedy drove off a bridge on his way home from a party on Chappaquiddick Island, killing his passenger, Mary Jo Kopechne.",
+    "<i>Apollo 11</i>: Americans astronauts Neil Armstrong, Buzz Aldrin and Michael Collins became the first men to land on the moon, with Armstrong becoming the first man to walk on the moon's surface.",
+    "The <i>Woodstock Festival</i> took place in White Lake, New York, proclaimed as \"three days of peace and music\", it became one of the defining events representing counterculture movement.",
+    "<i>Vietnamization</i>: President Nixon outlaid his administration's Vietnam policy in response to the Tet Offensive.",
+    "<i>Sesame Street</i> premiered on National Educational Television.",
+    "<i>Moratorium to End the War in Vietnam</i>: Over 500,000 peaceful demonstrators protested the Vietnam War in Washington D.C., being the largest anti-war protest in U.S. history.",
+    "President Nixon announces the withdrawal of 50,000 U.S. troops from Vietnam; reaching the peak level of U.S. troops in Vietnam at 541,000."
   ],
-  "australia": [
+  "Tanzania": [
+    "The Arusha Agreement is signed between the European Union and the East African states of Kenya, Tanzania, and Uganda."
+  ],
+  "Sudan": [
+    "Gaafar Nimeiry led a military <i>coup</i>."
+  ],
+  "Philippine": [
+    "New People's Army (NPA) is formally organized by Bernabe Buscayno (<i>alias</i> Kumander Dante) of PKP as the military arm of the CPP, upon merger with Jose Maria Sison's army.",
+    "Tuguegarao City, Cagayan experienced heat at 42.2 degrees Celsius, the country's highest temperature ever recorded.",
+    "U.S. President Richard Nixon visits the Philippines.",
+    "Miss Philippines Gloria Diaz was crowned Miss Universe 1969.",
+    "Cultural Center of the Philippines in Manila inaugurated.",
+    "DZKB-TV Channel 9 of newly-established Kanlaon Broadcasting System (KBS), now Radio Philippines Network (RPN), begins its broadcast.",
+    "Marcos re-elected President of the Republic of the Philippines (second term)."
+  ],
+  "Malaysia": [
+    "Malaysian general election, 1969: The third general election since independence was held in West Malaysia.",
+    "13 May Incident: Ethnic riots between Malays and Chinese took place in Kuala Lumpur.",
+    "A state of emergency and accompanying curfew were declared throughout the country.",
+    "The state of emergency and curfew were lifted."
+  ],
+  "Kenya": [
+    "Tom Mboya assassinated"
+  ],
+  "Japan": [
+    "Student protests against the Vietnam War and American use of bases on Japanese soil culminated in a short-lived takeover of Tokyo University."
+  ],
+  "Italy": [
+    "Published the first issue of <i>Il manifesto</i> (it will become daily in 1971).",
+    "New split the Unified Socialist Party: reborn PSI and PSDI.",
+    "The \"Hot Autumn\" of 1969 features occupations of factories and universities, and violence between right and left-wing students.",
+    "During the disorders of far-left peoples of lyrical theatre, in Milan, policeman Antonio Annarumma was hit by an iron tube, according to the court inquiry. After his death his vehicle without guidance hit another police officer. Students believe it is the accident which killed him, but this claim was repudiated by the medical examination. Annarumma considered to be the first victim of the Years of Lead, a period of social and political upheaval in Italy.",
+    "Agreement between Italy and Austria for a system of self-government in South Tyrol.",
+    "Far-right terrorists bomb the Banca Nazionale dell'Agricoltura in Milan (Piazza Fontana bombing), killing 17 people and wounding 88. Four more bombs detonate without victims. Investigations are blurred, and no responsible party has been held accountable."
+  ],
+  "Ireland": [
+    "Troops are deployed on the streets of Northern Ireland, marking the start of the Troubles."
+  ],
+  "Indonesia": [
+    "Papuan representatives agree to join Indonesia in the Act of Free Choice."
+  ],
+  "Germany": [
+    "Willy Brandt of the SPD was elected chancellor of West Germany."
+  ],
+  "France": [
+    "Georges Pompidou began his term as president of France."
+  ],
+  "Burma": [
+    "Yangon hosts Fifth Southeast Asian Peninsular Games"
+  ],
+  "Brazil": [
+    "Brazilian Military Junta of 1969 rules the country following sudden illness and resignation of President da Costa e Silva. The junta consists of Army General Aur&#xE9;lio de Lyra Tavares, Navy Admiral Augusto Hamann Rademaker Grunewald and Air Force Brigadier M&#xE1;rcio de Souza e Mello",
+    "Playing for Santos against Vasco in Rio de Janeiro, Brazilian footballer Pel&#xE9; scored his 1,000th goal."
+  ],
+  "Bhutan": [
+    "Jigme Dorji Wangchuck called for a triennial vote of confidence by the National Assembly to renew the Druk Gyalpo's mandate to rule. This vote was later abolished by his successor."
+  ],
+  "Barbados": [
+    "ANGLICAN CHURCH is disestablished by the ANGLICAN CHURCH (DATE OF DISESTABLISHMENT) ORDER, 1969, by the Minister under section 2 of the Anglican Church Act, Cap. 375.",
+    "",
+    "Election: Won by Democratic Labour Party-DLP, led by Errol Barrow"
+  ],
+  "Bangladesh": [
+    "Mass Uprising of '69 (&#x98A;&#x9A8;&#x9B8;&#x9A4;&#x9CD;&#x9A4;&#x9B0;&#x9C7;&#x9B0; &#x997;&#x9A3;-&#x985;&#x9AD;&#x9CD;&#x9AF;&#x9C1;&#x9A4;&#x9CD;&#x9A5;&#x9BE;&#x9A8;) in East Pakistan. (to February)",
+    "Ayub Khan resigns and Agha Mohammad Yahya Khan assumes power under martial law."
+  ],
+  "Australia": [
     "French conceptual artist Christo 'wraps' Little Bay in Sydney",
     "Renowned author-artists Norman Lindsay and May Gibbs die",
     "The Australian production of the rock musical <i>Hair</i> premieres in Sydney",
@@ -19,7 +85,7 @@
     "<i>Australian federal election, 1969</i>: John Gorton reelected as Prime Minister.",
     "More than 200,000 people participate in the largest demonstrations in Australian history, against the Vietnam War"
   ],
-  "argentina": [
+  "Argentina": [
     "In the Cordobazo popular protests of May 1969, thousands of citizens routed the army and police and took control of C&#xF3;rdoba for two days",
     "A counter-insurgency aircraft, the FMA IA 58 Pucar&#xE1;, flies for the first time",
     "Aircraft carrier ARA Veinticinco de Mayo replaces ARA Independencia"

@@ -1,6 +1,29 @@
 {
   "year": "1561",
-  "argentina": [
+  "Sweden": [
+    "Estonia becomes a Swedish dominion."
+  ],
+  "Spain": [
+    "Philip moved his court to Madrid."
+  ],
+  "Russia": [
+    "The Livonian Order agreed to the Union of Wilno, under which the Livonian Confederation was partitioned between Lithuania, Sweden and Denmark. Lithuania and Sweden sent troops to liberate their new territories from Russian possession."
+  ],
+  "Poland": [
+    "Signing of Wilno Pact"
+  ],
+  "Malta": [
+    "The Holy Inquisition is established in Malta. Domenico Cubelles is the first Inquisitor."
+  ],
+  "Latvia": [
+    "<i>Livonian War</i>: Livonia fell to Lithuania."
+  ],
+  "Estonia": [
+    "The Commandery of Tallinn and the nobility of other North Estonian bailiwicks of the Livonian Order swear allegiance to Sweden.",
+    "The Treaty of Vilnius gives lands of the Livonian Order in Southern Estonia and Northern Latvia to the Grand Duchy of Lithuania as the Duchy of Livonia.",
+    "The city council of Reval surrendered to Sweden."
+  ],
+  "Argentina": [
     "Mendoza founded"
   ]
 }

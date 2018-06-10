@@ -1,16 +1,49 @@
 {
   "year": "1879",
-  "usa": [
+  "USA": [
     "Thomas Edison invents the light bulb.",
     "The Knights of Labor goes public."
   ],
-  "australia": [
+  "Spain": [
+    "Pablo Iglesias founds the Partido Socialista Obrero Espa&#xF1;ol or PSOE in Casa Labra, a bar from Madrid"
+  ],
+  "Russia": [
+    "Land and Liberty split into the moderate Black Repartition and the radical terrorist group People's Will."
+  ],
+  "Peru": [
+    "<i>War of the Pacific</i>: Chile declared war on Peru and Bolivia."
+  ],
+  "Malaysia": [
+    "<i>Jementah Civil War</i>: Tengku Alam Shah refused to place Muar under the temporary administration of Sultan Abu Bakar of Johor."
+  ],
+  "Indonesia": [
+    "Kartini was born in Jepara, today the date is commemorated as women's emancipation day in Indonesia."
+  ],
+  "Haiti": [
+    "The Constituent Assembly elects Lysius Salomon as President; President Salomon would institute many reforms and pay off Haiti's remaining debt to France for independence"
+  ],
+  "Germany": [
+    "Germany and Austria-Hungary joined a mutual defense treaty, the Dual Alliance."
+  ],
+  "France": [
+    "Jules Gr&#xE9;vy began his term as president of France."
+  ],
+  "Cyprus": [
+    "Sir Robert Biddulph became Crown commissioner."
+  ],
+  "Cuba": [
+    "A second uprising (\"The Little War\"), engineered by Antonio Maceo and Calixto Garc&#xED;a, begins. It is quelled by superior Spanish forces in the autumn of 1880."
+  ],
+  "Chile": [
+    "The War of the Pacific begins with Chilean troops occupying the then-Bolivian port city of Antofagasta. Bolivia's ally Peru attempts to mediate, but Chile refuses to negotiate and Peru enters the war on the side of Bolivia. Chile captures the provinces of Antofagasta from Bolivia and Tarapac&#xE1; from Peru."
+  ],
+  "Australia": [
     "The first congress of trade unions was held."
   ],
-  "albania": [
+  "Albania": [
     "The Society for Printing of Albanian Writings, composed of Roman Catholic, Muslim, and Orthodox Albanians, was founded in Constantinople."
   ],
-  "afgan": [
+  "Afghanistan": [
     "<i>Second Anglo-Afghan War</i>: To prevent British occupation of a large part of the country, the Afghan government ceded much power to the United Kingdom in the Treaty of Gandamak."
   ]
 }

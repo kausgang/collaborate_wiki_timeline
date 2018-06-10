@@ -1,6 +1,36 @@
 {
   "year": "1600",
-  "india": [
+  "Tonga": [
+    "The Tu&#x2BB;i Kanokupolu dynasty ascended."
+  ],
+  "Sweden": [
+    "The Link&#xF6;ping Bloodbath takes place."
+  ],
+  "Philippine": [
+    "Pedro Bucaneg inscribes the oral epic Biag ni Lam-ang"
+  ],
+  "Japan": [
+    "Battle of Sekigahara is won by forces of Tokugawa Ieyasu"
+  ],
+  "Indonesia": [
+    "The Portuguese win a major naval battle in the bay of Ambon. Later in the year, the Dutch join forces with the local Hituese in an anti-Portuguese alliance, in return for which the Dutch would have the sole right to purchase spices from Hitu.",
+    "Elizabeth I grants a charter to the British East India Company beginning the English advance in Asia."
+  ],
+  "India": [
     "East India company is formed in England. Gets exclusive trading rights with India."
+  ],
+  "Germany": [],
+  "East_Timor": [
+    "Portugal opened a trade route with East Timor."
+  ],
+  "Colombia": [
+    "Huaynaputina volcano in Peru erupted catastrophically, in the largest volcanic explosion in South America in historic times causing a volcanic winter, with deadly effects reaching as far as Russia"
+  ],
+  "Burma": [
+    "Nyaungyan restores central rule to Upper Burma and Shan States (to 1606)"
+  ],
+  "Belgium": [
+    "Battle of Lekkerbeetje in the countryside outside 's-Hertogenbosch",
+    "Battle of Nieuwpoort between the armies of Maurice of Nassau and the Archduke Albert."
   ]
 }

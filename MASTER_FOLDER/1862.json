@@ -1,6 +1,9 @@
 {
   "year": "1862",
-  "usa": [
+  "Vietnam": [
+    "Treaty of Saigon."
+  ],
+  "USA": [
     "<i>Battle of Hampton Roads</i>: A naval battle between the <i>Monitor</i> and <i>Merrimack</i> takes place.",
     "The Homestead Act is passed.",
     "The Morrill Land-Grant Colleges Act is passed.",
@@ -9,7 +12,38 @@
     "<i>Battle of Antietam</i>: The battle takes place.",
     "<i>Dakota War of 1862</i>: The war is fought."
   ],
-  "australia": [
+  "Taiwan": [
+    "Dai Wansheng rebels"
+  ],
+  "Slovenia": [
+    "The railway line of the \"Carintnhian railway\" on the route Maribor &#x2013; Vuzenica is built."
+  ],
+  "Singapore": [
+    "Saint Andrews School is founded."
+  ],
+  "Philippine": [
+    "<i>El Pasig</i> is published, a bilingual fortnightly paper, one of the first native newspapers.",
+    "Salvador Vald&#xE9;s appointed Governor-General (1862)",
+    "Rafa&#xE9;l de Echag&#xFC;e y Bermingham appointed Governor-General (1862&#x2013;1865)"
+  ],
+  "Japan": [
+    "<i>Namamugi Incident</i>: Four British subjects were attacked by guards on the T&#x14D;kaid&#x14D; for failing to pay proper respect to a <i>daimy&#x14D;</i>. One, a merchant named Charles Lennox Richardson, was killed."
+  ],
+  "Haiti": [
+    "The United States recognizes Haiti",
+    "Rhum Barbancourt is first produced"
+  ],
+  "China": [
+    "<i>Dungan Revolt</i>: A disordered uprising began among the Hui people living on the west bank of the Yellow River.",
+    "The Tongwen Guan school of European languages was established."
+  ],
+  "Brazil": [
+    "Brazil adopts the Metric system."
+  ],
+  "Bhutan": [
+    "Bhutanese forces raid Sikkim and Cooch Behar; the British respond by withholding all compensation payments and demanding release of all captives and return of stolen property. These demands went unheeded by the Druk Desi, as he was alleged to be unaware of frontier officials' raids."
+  ],
+  "Australia": [
     "Stuart reached Port Darwin, founding a settlement there. Queensland's western border was moved to 139&#xB0; E."
   ]
 }

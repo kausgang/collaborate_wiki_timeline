@@ -1,6 +1,6 @@
 {
   "year": "1832",
-  "usa": [
+  "USA": [
     "The Supreme Court rules in favor of the Cherokee Nation in <i>Worcester v. State of Georgia</i>.",
     "<i>Black Hawk War</i>: The war takes place.",
     "The Tariff of 1832 is passed.",
@@ -10,7 +10,44 @@
     "<i>Bank War</i>: Jackson vetoes the charter renewal of the Second Bank of the United States.",
     "Calhoun resigns the Vice Presidency."
   ],
-  "australia": [
+  "Taiwan": [
+    "Zhang Bing rebellion"
+  ],
+  "Switzerland": [
+    "Confederate Sch&#xFC;tzenverein founded."
+  ],
+  "Sweden": [
+    "The G&#xF6;ta Canal, providing a route from Gothenburg on the west coast to S&#xF6;derk&#xF6;ping on the east coast, is completed."
+  ],
+  "Singapore": [
+    "Singapore becomes the center of government of the Straits Settlements."
+  ],
+  "Germany": [
+    "Goethe died.",
+    "Wilhelm Busch was born.",
+    "<i>Hambach Festival</i>: A rally began at Hambach Castle where participants demonstrated for the liberalization and unification of the German states."
+  ],
+  "France": [
+    "<i>June Rebellion</i>: Unsuccessful Anti-monarchist insurrection in Paris."
+  ],
+  "England": [
+    "The Great Reform Act was passed, doubling the franchise."
+  ],
+  "Colombia": [
+    "Jos&#xE9; Ignacio de M&#xE1;rquez is President of the Republic of New Granada",
+    "Francisco de Paula Santander is President of the Republic of New Granada",
+    "Coat of Arms of Colombia is officially adopted"
+  ],
+  "Chile": [
+    "Discovery of mineral deposits in Cha&#xF1;arcillo, and the beginning of the rise of silver in what was then el Norte Chico and now constitutes the Atacama and Coquimbo regions of Chile. The mining fortunes constitute an important source of power in the following decades."
+  ],
+  "Belgium": [
+    "Order of Leopold established.",
+    "Leopold I of Belgium marries Louise of Orl&#xE9;ans.",
+    "Albert Joseph Goblet d'Alviella replaces F&#xE9;lix de Muelenaere as Prime Minister",
+    "Siege of Antwerp by Belgian army with French support removes Dutch forces from Antwerp Citadel."
+  ],
+  "Australia": [
     "Swan River Colony had its name changed to Western Australia."
   ]
 }

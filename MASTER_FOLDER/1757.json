@@ -1,7 +1,23 @@
 {
   "year": "1757",
-  "india": [
+  "Sweden": [
+    "Sweden enters the Seven Years' War."
+  ],
+  "Russia": [
+    "<i>Diplomatic Revolution</i>: Under the Second Treaty of Versailles, Russia joined the Franco-Austrian military alliance.",
+    "<i>Seven Years' War</i>: Russian troops entered the war."
+  ],
+  "Indonesia": [
+    "Salatiga treaty between Prince Sambernyawa with Pakubuwono III and Hamengkubuwono I further partitioning the remnant of Mataram Sultanate, the Mangkunegaran Grand Duchy was established."
+  ],
+  "India": [
     "Battle of Plassey",
     "Company rule in India (to 1858)"
+  ],
+  "Burma": [
+    "Pegu captured; end of Restored Hanthawaddy"
+  ],
+  "Bangladesh": [
+    "Battle of Palashi. a decisive British East India Company victory over the Nawab of Bengal establishes Company rule in India."
   ]
 }

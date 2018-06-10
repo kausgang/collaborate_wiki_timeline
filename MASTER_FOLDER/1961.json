@@ -1,18 +1,87 @@
 {
   "year": "1961",
-  "usa": [
-    "The United States broke diplomatic relations with Cuba.<sup id=\"cite_ref-326\" class=\"reference\">[326]</sup>",
-    "President Eisenhower gave his farewell address which warned of the \"military&#x2013;industrial complex\".<sup id=\"cite_ref-327\" class=\"reference\">[327]</sup><sup id=\"cite_ref-328\" class=\"reference\">[328]</sup>",
-    "The United States embargo against Cuba came into force.<sup id=\"cite_ref-329\" class=\"reference\">[329]</sup>",
-    "President Kennedy signed Executive Order 10924, establishing the Peace Corps.<sup id=\"cite_ref-330\" class=\"reference\">[330]</sup>",
-    "The Twenty-third Amendment to the United States Constitution, which granted electors to the District of Columbia, was ratified.<sup id=\"cite_ref-331\" class=\"reference\">[331]</sup>",
-    "<i>Bay of Pigs Invasion</i>: The failed U.S. led invasion and attempted coup d'&#xE9;tat of Cuban Prime Minister Fidel Castro took place.<sup id=\"cite_ref-332\" class=\"reference\">[332]</sup><sup id=\"cite_ref-333\" class=\"reference\">[333]</sup>",
-    "The <i>Freedom Rides</i> began in Washington D.C. after the failure to enforce the Supreme Court's ruling in <i>Boynton v. Virginia</i>.<sup id=\"cite_ref-334\" class=\"reference\">[334]</sup><sup id=\"cite_ref-335\" class=\"reference\">[335]</sup>",
-    "Alan Shepard piloted the Freedom 7 capsule to become the first American in space.<sup id=\"cite_ref-336\" class=\"reference\">[336]</sup>",
-    "President Kennedy proposed the Apollo program, with the goal of \"landing a man on the moon and returning him safely to the earth.\"<sup id=\"cite_ref-337\" class=\"reference\">[337]</sup>",
-    "<i>Vietnam War</i>: President Kennedy deployed an additional 400 U.S. military advisors (900 total) to South Vietnam; totaling 3,200 American troops by 1963, and more than 11,000 by mid-1964.<sup id=\"cite_ref-338\" class=\"reference\">[338]</sup><sup id=\"cite_ref-339\" class=\"reference\">[339]</sup><sup id=\"cite_ref-VietnamTimeline_340-0\" class=\"reference\">[340]</sup>"
+  "USA": [
+    "The United States broke diplomatic relations with Cuba.",
+    "President Eisenhower gave his farewell address which warned of the \"military&#x2013;industrial complex\".",
+    "The United States embargo against Cuba came into force.",
+    "President Kennedy signed Executive Order 10924, establishing the Peace Corps.",
+    "The Twenty-third Amendment to the United States Constitution, which granted electors to the District of Columbia, was ratified.",
+    "<i>Bay of Pigs Invasion</i>: The failed U.S. led invasion and attempted coup d'&#xE9;tat of Cuban Prime Minister Fidel Castro took place.",
+    "The <i>Freedom Rides</i> began in Washington D.C. after the failure to enforce the Supreme Court's ruling in <i>Boynton v. Virginia</i>.",
+    "Alan Shepard piloted the Freedom 7 capsule to become the first American in space.",
+    "President Kennedy proposed the Apollo program, with the goal of \"landing a man on the moon and returning him safely to the earth.\"",
+    "<i>Vietnam War</i>: President Kennedy deployed an additional 400 U.S. military advisors (900 total) to South Vietnam; totaling 3,200 American troops by 1963, and more than 11,000 by mid-1964."
   ],
-  "albania": [
+  "Tanzania": [
+    "The University College, Dar es Salaam is established as one of three constituent colleges of the University of East Africa, with 14 law students.",
+    "Tanganyikan independence; Julius Nyerere as Prime Minister.",
+    "Tanganyika becomes a member of the United Nations."
+  ],
+  "Taiwan": [
+    "Slightly over half of Taiwan's population lives in urban areas"
+  ],
+  "Syria": [
+    "Following a military coup Syria seceded from the UAR, reestablishing itself as the Syrian Arab Republic."
+  ],
+  "Rwanda": [
+    "Rwandans vote to abolish the Tutsi monarchy.",
+    "Dominique Mbonyumutwa becomes provisional President of Rwanda."
+  ],
+  "Poland": [
+    "Legislative election"
+  ],
+  "Philippine": [
+    "Baguio City experience cold at 6.3-degree Celsius, the country's lowest temperature ever recorded.",
+    "Death of Sergio Osme&#xF1;a, former Philippine President",
+    "DZBB-TV Channel 7 of RBS established; third television station.",
+    "Diosdado Macapagal elected President of the Republic of the Philippines.",
+    "Macapagal takes his oath of office",
+    "Inauguration of the new City of Lapulapu, created by Republic Act No. 3134 on June 17, 1961."
+  ],
+  "Malta": [
+    "The <i>State of Malta</i> is created pursuant to the <i>Blood Constitution,</i> which provides for a measure of self-government.",
+    "Gozo is granted a local government system. (to 1973)"
+  ],
+  "Malaysia": [
+    "Malayan Prime Minister Tunku Abdul Rahman proposed a merger between Singapore, Malaya, North Borneo and Sarawak."
+  ],
+  "Indonesia": [
+    "An agreement is signed in Jakarta with the Soviet Union to buy arms with long term loans.",
+    "Building officially starts on the Monas National Monument in the center of Jakarta."
+  ],
+  "Germany": [
+    "Construction began on the Berlin Wall between East and West Berlin."
+  ],
+  "Cuba": [
+    "US Trade embargo on Cuba.",
+    "Cuban government initiates national literacy scheme.",
+    "Former rebel comandante Humberto Sor&#xED; Marin and Catholic leaders shot.",
+    "Bay of Pigs invasion.",
+    "Nikita Khrushchev writes to John F. Kennedy to end U.S. aggression against Cuba. "
+  ],
+  "Colombia": [
+    "Hurricane Hattie moves over San Andr&#xE9;s island with winds of 80&#xA0;mph (130&#xA0;km/h), causing 1 death, 15 injuries, and $300,000 in damage (1961&#xA0;USD, $2.1&#xA0;million 2008&#xA0;USD)."
+  ],
+  "Burma": [
+    "U Thant becomes 3rd Secretary-General of the United Nations. Yangon hosts Second Southeast Asian Peninsular Games"
+  ],
+  "Brazil": [
+    "Jo&#xE3;o Goulart replaces J&#xE2;nio Quadros as President of Brazil.",
+    "A circus tent fire in Niter&#xF3;i, Brazil kills 323."
+  ],
+  "Bhutan": [
+    "First Five-Year Plan is introduced."
+  ],
+  "Belgium": [
+    "Patrice Lumumba killed in Congo",
+    "Belgian general election, 1961"
+  ],
+  "Barbados": [
+    "Election: Won by Democratic Labour Party-DLP, led by Errol Barrow who becomes Premier.",
+    "Barbados achieves full internal self-government.",
+    "The EC$28,000,000 Deep Water Harbour in Bridgetown is completed and officially opened. Construction commenced in 1956."
+  ],
+  "Albania": [
     "Hoxha harangued against the Soviet Union and Yugoslavia at Albania's Fourth Party Congress.",
     "The Soviet Union broke diplomatic relations with Albania, spurring Eastern European Communist countries to severely reduce their Albanian contacts and Albania to improve its relationship with China."
   ]

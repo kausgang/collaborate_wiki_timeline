@@ -1,11 +1,55 @@
 {
   "year": "1868",
-  "usa": [
+  "USA": [
     "<i>Impeachment of Andrew Johnson</i>: Johnson is impeached by the House, but acquitted by the Senate.",
     "The Fourteenth Amendment to the United States Constitution, second of the Reconstruction Amendments, is ratified.",
     "Grant is elected President."
   ],
-  "australia": [
+  "Tajikistan": [
+    "Most of Tajikistan was incorporated into the Russian Empire."
+  ],
+  "Taiwan": [
+    "<i>Camphor War</i>: British Navy occupies Anping over rights to export camphor without regard for Chinese regulations",
+    "<i>Camphor War</i>: Qing dynasty gives in to British demands for reparations, freedom of missionary activity, and trade rights",
+    "John Dodd calls in British gunboats to force Qing authorities to apologize and pay reparations for being accosted by an angry crowd"
+  ],
+  "Spain": [
+    "<i>Ten Years' War</i>: A war with Cuba began."
+  ],
+  "Russia": [
+    "The Khanate of Kokand became a Russian vassal state."
+  ],
+  "Japan": [
+    "Boshin War resulting in Meiji Restoration and other events"
+  ],
+  "Indonesia": [
+    "The Batavian Museum (today National Museum of Indonesia) was officially opened by Dutch East Indies government."
+  ],
+  "England": [
+    "The last public execution was carried out."
+  ],
+  "Cuba": [
+    "The first war of Cuban independence, also known as the Ten Years' War, begins. It lasts until 1878.",
+    "Revolutionaries under the leadership of Carlos Manuel de C&#xE9;spedes proclaim Cuban independence."
+  ],
+  "Colombia": [
+    "Santos Guti&#xE9;rrez is President of the United States of Colombia"
+  ],
+  "China": [
+    "<i>Yangzhou riot</i>: Scholar-officials resident in Yangzhou instigated a riot in which the headquarters of the British missionary society OMF International were attacked and burned.",
+    "<i>Nian Rebellion</i>: The last of the rebel armies was destroyed."
+  ],
+  "Brazil": [
+    "Paraguayan War: Brazilian Army commander Lu&#xED;s Alves de Lima e Silva, Duke of Caxias enters Asunci&#xF3;n, Paraguay's capital. Some days later he declares the war is over. Nevertheless, Francisco Solano L&#xF3;pez, Paraguay's president, prepares guerrillas to fight in the countryside.",
+    "Paraguayan War: Battle of Ytoror&#xF3; or Ytoror&#xF3;: Field-Marshal Lu&#xED;s Alves de Lima e Silva, Duke of Caxias leads 13,000 Brazilian troops against a Paraguayan fortified position of 5,000 troops."
+  ],
+  "Belgium": [
+    "Walth&#xE8;re Fr&#xE8;re-Orban replaces Charles Rogier as Prime Minister",
+    "Partial legislative elections of 1868",
+    "47 miners killed by a fire damp explosion in the Sainte Henriette mine near Jemappes.",
+    "Frederick Doulton, MP, brought to trial in Brussels on charges of fraud in public works, but acquitted of having broken any law."
+  ],
+  "Australia": [
     "The transportation of convicts to Western Australia ceased."
   ]
 }

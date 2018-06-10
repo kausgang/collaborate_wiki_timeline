@@ -1,6 +1,6 @@
 {
   "year": "1865",
-  "usa": [
+  "USA": [
     "Lee is named commander-in-chief of all Confederate forces.",
     "Richmond, Virginia, the Confederate capital, is captured by a corps of black Union troops.",
     "Lee surrenders to Grant at Appomattox Court House.",
@@ -9,8 +9,45 @@
     "The Thirteenth Amendment to the United States Constitution is passed, permanently outlawing slavery.",
     "The Freedmen's Bureau is established."
   ],
-  "india": [
+  "Taiwan": [
+    "Dai Wansheng's rebellion is defeated"
+  ],
+  "Russia": [
+    "The Russian army captured Tashkent"
+  ],
+  "Philippine": [
+    "University of Santo Tomas made the center for public instruction throughout the Philippines by royal decree of Queen Isabella II of Spain.",
+    "Observatorio Meteorol&#xF3;gico del Ateneo Municipal de Manila (Manila Observatory) established by the Jesuits",
+    "Joaqu&#xED;n del Solar e Ib&#xE1;&#xF1;ez appointed Governor-General (1862&#x2013;1865)",
+    "Juan de Lara e Irigoyen appointed Governor-General (1862&#x2013;1865)"
+  ],
+  "Malaysia": [
+    "Second Larut War: started off by a gambling quarrel in June of that year between members of Ghee Hin Kongsi and Hai San Secret Society."
+  ],
+  "Italy": [
+    "The capital of Italy is moved from Turin to Florence, in order to approach it to Rome, considered the natural capital, but still under Papal rule and French protection."
+  ],
+  "India": [
     "Lala Lajpat Rai is born (to 1928)",
     ""
+  ],
+  "Haiti": [
+    "C&#xE9;ligny Ardouin's eleven-volume work on the history of Haiti, <i>Essais sur l'Histoire d'Ha&#xEF;ti</i>, is published"
+  ],
+  "Colombia": [
+    "Kola Rom&#xE1;n, a popular Colombian soft drink is introduced by Carlos Roman"
+  ],
+  "Brazil": [
+    "The Triple Alliance of Argentina, Brazil, and Uruguay against Paraguay is formally signed; the Paraguayan War begins.",
+    "Paraguayan War: Battle of the Riachuelo: The Brazilian Navy squadron defeats the Paraguayan Navy."
+  ],
+  "Bhutan": [
+    "Bhutan signs the Treaty of Sinchula, ceding territories in the Assam Duars and Bengal Duars, as well as the eighty-three-square-kilometer territory of Dewangiri in southeastern Bhutan, in return for an annual subsidy of 50,000 rupees."
+  ],
+  "Belgium": [
+    "Treaty of Amity, Commerce and Navigation between China and Belgium, negotiated by Auguste t'Kint, signed in Beijing.",
+    "Death of Leopold I of Belgium.",
+    "Auguste t'Kint, consul general, arrives in Yokohama as the first Belgian diplomat in Japan.",
+    "Leopold II of Belgium sworn in as head of state."
   ]
 }

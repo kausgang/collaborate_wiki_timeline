@@ -1,6 +1,6 @@
 {
   "year": "1999",
-  "usa": [
+  "USA": [
     "Dennis Hastert of Illinois becomes Speaker of the House of Representatives.",
     "The Dow Jones Industrial Average closed at 10,006.78.",
     "<i>Columbine High School massacre</i>: Teenage students Eric Harris and Dylan Klebold murdered 12 other students and 1 teacher at Columbine High School in Littleton, Colorado.",
@@ -8,24 +8,116 @@
     "<i>EgyptAir Flight 990</i>: The first officer deliberately crashed a plane south of Nantucket, Massachusetts, killing 217.",
     "Along with the rest of the world, the United States prepared for the possible effects of the Y2K bug in computers, which was feared destined to cause computers to become inoperable and wreak havoc."
   ],
-  "india": [
+  "Tonga": [
+    "Tonga joined the United Nations."
+  ],
+  "Tanzania": [
+    "Julius Nyerere dies of leukaemia in London.",
+    "The East African Community Treaty between Kenya, Tanzania, and Uganda is signed in Arusha."
+  ],
+  "Taiwan": [
+    "Resolution on Taiwan's Future",
+    "Chi-Chi earthquake."
+  ],
+  "Sweden": [
+    "The Church of Sweden is separated from the state and becomes an independent organization."
+  ],
+  "Sudan": [
+    "A state of emergency was declared by President Bashir following a power struggle with Hassan al-Turabi.",
+    "Oil exports from Sudan began."
+  ],
+  "Serbia": [
+    "In January the Ra&#x10D;ak massacre occurs in which Serb forces kill at least 45 Albanians including the leader of the KLA Adem Jashari.",
+    "In response to Serb forces' ethnic cleansing of Kosovo, NATO starts bombing targets in Serbia. Slobodan Milo&#x161;evi&#x107; announces the mandatory mobilisation of the troops.",
+    "<i>Ethnic cleansing</i> of Albanians continues in Kosovo despite NATO bombardment of the Yugoslav troops.",
+    "There are numerous killings of Albanians and Serbs following the armed clashes between the two. NATO bombs major Serbian cities including downtown Belgrade as well as Ni&#x161; city market, the bridges of Novi Sad and the oil refinery of Pan&#x10D;evo.",
+    "16 technicians are killed following the bombing of the national television RTS in downtown Belgrade and tens of others in civilian bombings on trains in Grdelica gorge, Ni&#x161; market, Belgrade and Varadin hospitals, and refugees north of Pristina.",
+    "The Kosovo war ends following an agreement reached in Kumanovo after 3 months of aerial bombardments. Serbian casualties range anywhere between 3,500 and 7,000 including the ones missing, while Albanian casualties stand at about 10,000 victims overall including the pre-war period. UN Resolution 1244 acknowledges sovereignty of FRY over the province but puts it under UN-occupation.",
+    "An ethnic cleansing of the Serbian population begins following the retreat of the <i>Yugoslav Army</i> and the arrival of Albanians protected by the UN and NATO. 200,000 Kosovo Serbs are expelled from or escape from Kosovo leaving only a fraction of pre-war Serbian population behind &#x2013; about 140,000. Serbs fall to a mere 7% of the overall population as Albanians repopulate former Serbian houses and take over their businesses. Tens of medieval Serbian Orthodox churches are leveled to the ground. Around 3,000 Kosovo Serbs are believed to have been killed."
+  ],
+  "Poland": [
+    "Accession of Poland to NATO"
+  ],
+  "Philippine": [
+    "Leo Echegaray is executed by lethal injection at the New Bilibid Prison in Muntinlupa City; the first Filipino to be meted the death penalty since its reinstatement in 1993.",
+    "About 60 people died and 378 houses buried when a massive landslide, caused by Typhoon Olga (<i>Ising</i>), occurs in Cherry Hills subdivision in Antipolo City, Rizal."
+  ],
+  "Malaysia": [
+    "Abdullah Ahmad Badawi become as Deputy Prime Minister replaced Dato' Seri Anwar Ibrahim."
+  ],
+  "Italy": [
+    "Italy is accepted in the eurozone.",
+    "The film <i>Life is Beautiful</i> is nominated for seven Academy Awards. The film wins the awards for Best Actor (the first for a male performer in a non-English-speaking role, and only the third overall acting Oscar for non-English-speaking roles), the Best Original Dramatic Score and the Oscar for Best Foreign Language Film.",
+    "Italy takes part in the Kosovo War, a NATO-led aerial operation against Milosevic's Yugoslavia to prevent genocide in Kosovo. The premier is Massimo D'Alema, of the post-communist Partito Democratico della Sinistra.",
+    "Carlo Azeglio Ciampi is elected President of the Republic."
+  ],
+  "Ireland": [
+    "Ireland yields its official currency the Irish pound and adopts the Euro."
+  ],
+  "Indonesia": [
+    "A petty argument between in the city of Ambon triggers Christian-Muslim clashes that last for three years across Maluku. As many as 10,000 are killed and 700,000 or one third of the region are displaced.",
+    "Indonesia's first free and fair national elections since 1955 take place with almost no disruption and wide participation. Votes however are distributed across forty-eight parties with no party achieving a majority.",
+    "East Timor votes to secede from Indonesia in a referendum conducted under UN auspices. Four-fifths of voters choose independence for East Timor over integration with Indonesia. Pro-integration militias trained and paid by ABRI immediately resort to a scorched earth policy that leaves 1,000 dead and most of the territory's infrastructure ruined.",
+    "President Habibie relents to international pressure and allows a UN peacekeeping force known as 'INTERFET' to enter East Timor and restore order.",
+    "The Indonesian parliament rejects President Habibie's accountability speech. Wahid whose party received one eighth of the popular vote is elected president by the MPR. Megawati whose party received one third of the vote (the highest) is elected vice president."
+  ],
+  "India": [
     "Vajpayee makes historic bus trip to Pakistan to meet Premier Nawaz Sharif and to sign bilateral Lahore peace declaration.",
     "Tension in Kashmir leads to brief war with Pakistan-backed forces in the icy heights around Kargil in Indian-held Kashmir.",
     "Cyclone devastates eastern state of Odisha, leaving at least 10,000 dead."
   ],
-  "australia": [
+  "Germany": [
+    "<i>NATO bombing of Yugoslavia</i>: NATO forces began bombing the Federal Republic of Yugoslavia in support of the Kosovo Liberation Army."
+  ],
+  "East_Timor": [
+    "<i>East Timor Special Autonomy Referendum</i>: A referendum resulted in 78% in favour of independence from Indonesia.",
+    "The International Force for East Timor (INTERFET) arrived to address an ongoing humanitarian and security crisis."
+  ],
+  "Cuba": [
+    "Christian anti-abortion activist Oscar El&#xED;as Biscet is detained by Cuban police for organizing meetings in Havana and Matanzas.",
+    "Six-year/old Eli&#xE1;n Gonz&#xE1;lez is found clinging to an inner tube in the Straits of Florida."
+  ],
+  "Colombia": [
+    "<i>Betty la fea</i> soap opera a.k.a. <i>Ugly Betty</i> reach the highest levels of rating and the script is sold to different producers in several countries",
+    "The 1999 Armenia earthquake devastates Armenia, Colombia. Over 2000 dead, 3000 missing persons and a quarter million people homeless",
+    "ELN guerrilla kidnap Fokker airplane with 41 occupants in Bol&#xED;var department",
+    "Serial killer Luis Garavito is found guilty of the murder of 138 boys. (The total number of victims according with Garavito confessions off-record is estimated up to 300 boys and an undetermined number of adults)",
+    "Mass kidnapping of 70 people in La Maria church in Cali",
+    "Comedian Jaime Garz&#xF3;n is murdered by hitmen",
+    "Strong waves from Hurricane Lenny affect the Guajira Peninsula of Colombia, flooding 1,200 homes and businesses along the northern coastline. In addition, winds and rains from the hurricane causes severe crop damage in the country. The hurricane kills two in Colombia. (to 16 November)",
+    "Date of death of Colombian essayist and historian Germ&#xE1;n Arciniegas"
+  ],
+  "Brazil": [
+    "In S&#xE3;o Jos&#xE9; dos Campos, 345 prisoners escape from Putim prison through the front gate."
+  ],
+  "Bhutan": [
+    "Television is introduced.",
+    "Tek Nath Rizal, leader of the illegal Bhutan Peoples' Party, is pardoned and released from prison along with some 40 other political prisoners. He goes into exile in Nepal, a common condition of release among Lhotshampa political dissidents."
+  ],
+  "Belgium": [
+    "Belgian federal election, 1999",
+    "Verhofstadt I Government sworn in",
+    "Wedding of Prince Philippe and Mathilde d'Udekem d'Acoz"
+  ],
+  "Barbados": [
+    "Election: Won by Barbados Labour Party-BLP, led by Owen Arthur"
+  ],
+  "Bangladesh": [
+    "21 February is declared International Mother Language Day in the 30th General Conference of UNESCO."
+  ],
+  "Australia": [
     "Both houses of the federal parliament pass a Motion of Reconciliation signifying both recognition of and regret at past mistreatment of indigenous Australians.",
     "A referendum on changing to a republic is unsuccessful",
     "Howard Government deploys Australian forces to East Timor to lead the INTERFET mission, following violence in wake of East Timorese vote for independence."
   ],
-  "argentina": [
+  "Armenia": [
+    "Armenian parliament shooting"
+  ],
+  "Argentina": [
     "De la R&#xFA;a won Presidency as head of the Alianza, but was confronted by growing economic crisis",
     "In one of the worst accidents in the history of Argentinian aviation, LAPA flight 3142 crash at Aeroparque Jorge Newbery airport resulted in 65 fatalities."
   ],
-  "armenia": [
-    "Armenian parliament shooting"
-  ],
-  "albania": [
+  "Albania": [
     "During the 78 days of NATO bombing of Yugoslavia, about 450,000 of a total 750,000 Kosovar refugees flee into Albania. That figure is equal to almost 15% of Albania's total population. The hostilities turn Albania into a key operational theatre for international relief agencies and NATO forces in Albania, called Kosovo Force (KFOR), which launch a humanitarian relief operation. In addition, within the framework of the NATO air campaign, U.S. forces deploy 24 Apache antitank helicopters and long-range artillery pieces in northern Albania. The northern Albanian border regions of Kuk&#xEB;s and Tropoj&#xEB; bear the brunt of the refugee influx and military operations. Supplying the refugees and transporting them to other parts of the country creates immense logistic difficulties for the United Nations High Commissioner for Refugees and other relief agencies. The region also sees ongoing border clashes between Yugoslav forces, who continually shell Albanian border villages, and Kosovo Liberation Army (KLA) fighters operating in part from support bases inside Albania. The border area remains heavily mined after the fighting subsides. With the end of the fighting, Albania's relations improve with its neighbours &#x2013; Montenegro, Macedonia, Greece, and the new UN administration in Kosovo, with whom the Albanian Foreign Ministry plans a series of joint regional development projects within the framework of the European Union-funded Stability Pact for South Eastern Europe. Early accomplishments include the installation of a powerful microwave-telephone connection between Albania and Kosovo and the signing of infrastructure development projects with Montenegro. (to June)",
     "NATO says it will supply long-term military aid to Albania and Macedonia and draw up plans to help the two Balkan countries meet the alliance's entry requirements.",
     "Spartak Po&#xE7;i is appointed interior minister, replacing Petro Ko&#xE7;i. Po&#xE7;i subsequently manages to break up 12 criminal gangs throughout the country, most notably those in Tropoj&#xEB;, where special police units restore order in September. Because of frequent armed robberies, Tropoj&#xEB; earlier had been a \"no-go\" area for international aid agencies. The Organization for Security and Cooperation in Europe closed its office there on June 16 after gunmen killed two of its local staff.",

@@ -1,9 +1,49 @@
 {
   "year": "1810",
-  "usa": [
+  "USA": [
     "The Supreme Court issues a decision in <i>Fletcher v. Peck</i> which overturns a state law."
   ],
-  "argentina": [
+  "Tonga": [
+    "Mariner's sojourn ended."
+  ],
+  "Sweden": [
+    "Karolinska Institutet is founded."
+  ],
+  "Russia": [
+    "The first military settlement was established near Klimovichi.",
+    "Alexander established the State Council, which received the executive powers of the Governing Senate.",
+    "The Russian government proclaimed the deposition of Solomon II from the throne of Imereti."
+  ],
+  "Philippine": [
+    "Manuel Gonzalez de Aguilar appointed Governor-General (1806&#x2013;1813)"
+  ],
+  "Peru": [
+    "Viceroy Jos&#xE9; Fernando de Abascal y Sousa sent troops to C&#xF3;rdoba, Potos&#xED;, La Paz and Charcas and reincorporated them into the Viceroyalty of Peru."
+  ],
+  "Mexico": [
+    "<i>Grito de Dolores</i>: The Catholic priest Miguel Hidalgo y Costilla encouraged his congregation to revolt against the Spanish crown in a speech made at Dolores.",
+    "<i>Mexican War of Independence</i>: After Hidalgo orders Juan Antonio Ria&#xF1;o the surrender of Guanajuato, the insurgent troops led by Jos&#xE9; Mariano Abasolo and Ignacio Camargo take the city.",
+    "<i>Battle of Monte de las Cruces</i>: Insurgent forces under Hidalgo and Ignacio Allende defeated Spanish troops at Ocoyoacac."
+  ],
+  "Germany": [
+    "Robert Schumann was born.",
+    ""
+  ],
+  "Colombia": [
+    "Cry of Independence, also known as the Florero de Llorente (Llorente Flower Vase) incident (Colombian Independence Day)",
+    "Jos&#xE9; Miguel Pey de Andrade is President of the Supreme Governing Junta",
+    "The president of the Supreme Board of Cartagena, Jos&#xE9; Mar&#xED;a Garc&#xED;a Toledo, created the Colombian Navy"
+  ],
+  "Chile": [
+    "Imitating the <i>juntista</i> movement of the rest of Latin America, the criollos (people of Spanish ancestry, but not born in Spain) of Santiago de Chile proclaim a governing Junta."
+  ],
+  "Belgium": [
+    "Napoleon Bonaparte attends the launching of the warship <i>Friedland</i> in Antwerp."
+  ],
+  "Armenia": [
+    "Zeitountsi revolts."
+  ],
+  "Argentina": [
     "Secret meetings in May 1810 organised a petition for an open meeting &#x2013; <i>Cabildo Abierto</i>",
     "The petition was refused by viceroy Baltasar Hidalgo de Cisneros but popular protest forced his hand on 22 May.",
     "The <i>Cabildo</i> opened its session on 22 May with 251 of the city's most prominent citizens, and discussed the future government of the provinces",
@@ -11,8 +51,5 @@
     "Unsuccessful military campaigns in Paraguay and Alto Per&#xFA; failed to gather support for joint action by the entire viceroyalty against Spanish forces (to 1811)",
     "News of Napoleon's invasion of Spain caused a power vacuum in Buenos Aires leading to a series of events known as the May Revolution:",
     "Junta Grande, with delegates from other provinces of the United Provinces of the River Plate, replaced Primera Junta"
-  ],
-  "armenia": [
-    "Zeitountsi revolts."
   ]
 }

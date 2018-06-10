@@ -1,6 +1,6 @@
 {
   "year": "1864",
-  "usa": [
+  "USA": [
     "General Ulysses S. Grant is put in command of all Union forces.",
     "The Wade&#x2013;Davis Bill is passed.",
     "<i>Sand Creek massacre</i>: The massacre takes place.",
@@ -8,10 +8,58 @@
     "<i>U.S. presidential election, 1864</i>: An election is held.",
     "<i>Sherman's March to the Sea</i>: The march takes place."
   ],
-  "australia": [
+  "Sweden": [
+    "The daily newspaper <i>Dagens Nyheter</i> is founded."
+  ],
+  "Spain": [
+    "<i>Chincha Islands War</i>: The war began."
+  ],
+  "Slovenia": [
+    "The Kozler brothers establish the Pivovarna Union (<i>The Union Brewery</i>)."
+  ],
+  "Russia": [
+    "Zemstva were established for the local self-government of Russian citizens.",
+    "The Russian army began an incursion into the Khanate of Kokand.",
+    "<i>Caucasian War</i>: Alexander declared the war over.",
+    "<i>January Uprising</i>: Romuald Traugutt, the dictator of the rebellion, was hanged.",
+    "<i>Judicial reform of Alexander II</i>: A royal decree introduced new laws unifying and liberalizing the Russian judiciary."
+  ],
+  "Poland": [
+    "Abolition of serfdom in Congress Poland"
+  ],
+  "Philippine": [
+    "Apolinario Mabini, the Brains of the Revolution, was born."
+  ],
+  "Malta": [
+    "Pope Pius IX issues a papal bull entitled <i>Singulari Amore</i> (With remarkable love), separating the islands of Gozo and Comino from the diocese of Malta; seven days later, Michele Francesco Buttigieg is elected first Bishop of Gozo."
+  ],
+  "Indonesia": [
+    "The first railway track in Indonesia was laid between Semarang and Tanggung, Central Java by the Dutch colonial government."
+  ],
+  "Germany": [
+    "<i>Second Schleswig War</i>: Prussia invaded Schleswig.",
+    "<i>Second Schleswig War</i>: Denmark, Austria and Prussia signed the Treaty of Vienna, placing the duchies of Schleswig and Holstein under Prussian and Austrian administration, respectively, and ending the war."
+  ],
+  "Colombia": [
+    "Manuel Murillo Toro is President of the United States of Colombia"
+  ],
+  "China": [
+    "The Ever Victorious Army of the Qing dynasty was disbanded."
+  ],
+  "Brazil": [
+    "American Civil War: Bahia incident: USS <i>Wachusett</i> illegally captures the CSS&#xA0;<i>Florida</i> Confederate raider while in port in Bahia, Brazil in violation of Brazilian neutrality."
+  ],
+  "Bhutan": [
+    "Britain sends a peace mission to Bhutan in the wake of a recent civil war, during a period when two rival claimants to the office of Druk Desi competed for power. Though the British attempt to deal with both Druk Desis, the peace mission is rejected by Bhutan.",
+    "Britain declares war on Bhutan. The Duar War lasts five months, resulting in Bhutan's defeat and cession of significant territory under the Treaty of Sinchula."
+  ],
+  "Belgium": [
+    "Belgian general election, 1864"
+  ],
+  "Australia": [
     "Great Fire of Brisbane"
   ],
-  "argentina": [
+  "Argentina": [
     "Start of War of the Triple Alliance between Paraguay and the Triple Alliance of Argentina, Brazil and Uruguay, leading to utter defeat of Paraguay by 1870"
   ]
 }

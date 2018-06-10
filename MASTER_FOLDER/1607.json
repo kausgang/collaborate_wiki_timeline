@@ -1,6 +1,21 @@
 {
   "year": "1607",
-  "usa": [
+  "USA": [
     "The short-lived Popham Colony was founded."
+  ],
+  "Russia": [
+    "False Dmitriy II, another claimant to the identity of Dmitriy Ivanovich, obtained financial and military support from a group of Polish magnates."
+  ],
+  "Ireland": [
+    "The <i>Flight of the Earls</i>: The departure from Ireland of Hugh O'Neill, 2nd Earl of Tyrone and Rory O'Donnell, 1st Earl of Tyrconnell."
+  ],
+  "England": [
+    "Jamestown was founded in the Virginia Colony and was the first permanent English colony in the Americas."
+  ],
+  "Cuba": [
+    "Havana is named capital of Cuba."
+  ],
+  "China": [
+    "<i>Euclid's Elements</i> was first translated into Chinese."
   ]
 }

@@ -1,19 +1,83 @@
 {
   "year": "1963",
-  "usa": [
-    "Betty Friedan's <i>The Feminine Mystique</i>, attributed to sparking Second-wave feminism, was published.<sup id=\"cite_ref-347\" class=\"reference\">[347]</sup>",
-    "<i>Gideon v. Wainwright</i>: In a unanimous decision, the Supreme Court ruled that the right to counsel is protected under the Sixth Amendment.<sup id=\"cite_ref-348\" class=\"reference\">[348]</sup>",
-    "<i>Birmingham campaign</i>: The nonviolent led protests against racial segregation in Birmingham, Alabama was launched by the SCLC.<sup id=\"cite_ref-349\" class=\"reference\">[349]</sup>",
-    "<i>Letter from a Birmingham Jail</i>: Dr. King was arrested amid the Birmingham campaign, writing an open letter defending the strategy nonviolent protest.<sup id=\"cite_ref-350\" class=\"reference\">[350]</sup>",
-    "The Equal Pay Act of 1963 was signed into law.<sup id=\"cite_ref-351\" class=\"reference\">[351]</sup>",
-    "NAACP field secretary Medgar Evers was assassinated at his home in Mississippi by white supremacists, hours after President Kennedy gave his Civil Rights Address.<sup id=\"cite_ref-352\" class=\"reference\">[352]</sup>",
-    "<i>March on Washington for Jobs and Freedom</i>: Dr. Martin Luther King Jr., among other notable civil rights leaders, spoke on the Lincoln Memorial, giving his historic \"I Have a Dream\" speech at the march that drew over 200,000 demonstrators.<sup id=\"cite_ref-353\" class=\"reference\">[353]</sup><sup id=\"cite_ref-354\" class=\"reference\">[354]</sup><sup id=\"cite_ref-355\" class=\"reference\">[355]</sup>",
-    "The <i>16th Street Baptist Church bombing</i>, carried out by a KKK splinter group, killed four African-American girls in what was seen as a turning point for the Civil Rights Movement.<sup id=\"cite_ref-356\" class=\"reference\">[356]</sup>",
-    "The Atomic Test Ban Treaty was signed.<sup id=\"cite_ref-357\" class=\"reference\">[357]</sup>",
-    "President John F. Kennedy was assassinated by a sniper in Dallas, Texas while traveling in an open presidential motorcade with Texas Governor John Connally, who was injured in the incident.<sup id=\"cite_ref-358\" class=\"reference\">[358]</sup>",
-    "Vice President Lyndon B. Johnson was sworn in as President, hours after the assassination of President John F. Kennedy.<sup id=\"cite_ref-359\" class=\"reference\">[359]</sup>",
-    "Lee Harvey Oswald, the sniper who assassinated President Kennedy, was killed after being fatally shot by Dallas nightclub owner Jack Ruby.<sup id=\"cite_ref-360\" class=\"reference\">[360]</sup>",
-    "The Warren Commission was established by President Johnson to investigate the assassination of President Kennedy.<sup id=\"cite_ref-361\" class=\"reference\">[361]</sup>",
-    "The Clean Air Act was signed into law.<sup id=\"cite_ref-362\" class=\"reference\">[362]</sup>"
+  "USA": [
+    "Betty Friedan's <i>The Feminine Mystique</i>, attributed to sparking Second-wave feminism, was published.",
+    "<i>Gideon v. Wainwright</i>: In a unanimous decision, the Supreme Court ruled that the right to counsel is protected under the Sixth Amendment.",
+    "<i>Birmingham campaign</i>: The nonviolent led protests against racial segregation in Birmingham, Alabama was launched by the SCLC.",
+    "<i>Letter from a Birmingham Jail</i>: Dr. King was arrested amid the Birmingham campaign, writing an open letter defending the strategy nonviolent protest.",
+    "The Equal Pay Act of 1963 was signed into law.",
+    "NAACP field secretary Medgar Evers was assassinated at his home in Mississippi by white supremacists, hours after President Kennedy gave his Civil Rights Address.",
+    "<i>March on Washington for Jobs and Freedom</i>: Dr. Martin Luther King Jr., among other notable civil rights leaders, spoke on the Lincoln Memorial, giving his historic \"I Have a Dream\" speech at the march that drew over 200,000 demonstrators.",
+    "The <i>16th Street Baptist Church bombing</i>, carried out by a KKK splinter group, killed four African-American girls in what was seen as a turning point for the Civil Rights Movement.",
+    "The Atomic Test Ban Treaty was signed.",
+    "President John F. Kennedy was assassinated by a sniper in Dallas, Texas while traveling in an open presidential motorcade with Texas Governor John Connally, who was injured in the incident.",
+    "Vice President Lyndon B. Johnson was sworn in as President, hours after the assassination of President John F. Kennedy.",
+    "Lee Harvey Oswald, the sniper who assassinated President Kennedy, was killed after being fatally shot by Dallas nightclub owner Jack Ruby.",
+    "The Warren Commission was established by President Johnson to investigate the assassination of President Kennedy.",
+    "The Clean Air Act was signed into law."
+  ],
+  "Tanzania": [
+    "Zanzibar becomes a member of the United Nations.",
+    "Zanzibar receives independence from the United Kingdom, becoming a constitutional monarchy."
+  ],
+  "Switzerland": [
+    "Switzerland joins the Council of Europe (not to be confused with the European Union)."
+  ],
+  "Rwanda": [
+    "Following a Tutsi guerilla attack from Burundi, an anti-Tutsi backlash kills thousands."
+  ],
+  "Philippine": [
+    "Ferdinand Marcos became President of the Senate of the Philippines.",
+    "Death of Felix Y. Manalo, founder of Iglesia ni Cristo at age of 76",
+    "Twenty-four members of the Philippine contingent for the 11th World Scout Jamboree in Greece are among the 60 deaths in a plane crash into the Indian Ocean.",
+    "Diosdado Macapagal signed the Agricultural Land Reform Code"
+  ],
+  "Malaysia": [
+    "Indonesia&#x2013;Malaysia confrontation: Indonesian Foreign Minister Subandrio announced that Indonesia would pursue a policy of <i>konfrontasi</i> with the Federation of Malaysia, North Borneo and Sarawak.",
+    "The Malaysia Agreement was signed by the governments of the United Kingdom, Malaya, Singapore, North Borneo and Sarawak.",
+    "Manila Accord was signed by the governments of Malaya (now Malaysia), Indonesia and, Philippines.",
+    "Malaysia established. Singapore, Sabah, Sarawak and Malaya merged to form Malaysia."
+  ],
+  "Kenya": [
+    "Kenya Receives Independence\n<p>Kenya transforms into a commonwealth</p>\n<p>Jomo Kenyatta becomes Kenya's first Prime Minister serving Elizabeth II</p>\n<p>Malcolm MacDonald becomes Kenya's last Colonial governor</p>\n"
+  ],
+  "Italy": [
+    "The DC switches to a strategy of alliance with the socialist PSI. Electric energy is nationalised and the high school system is reformed.",
+    "Ciaculli massacre: a bomb intended for the mafia boss Salvatore Greco \"Ciaschiteddu\" explodes in Ciaculli, killing seven police and military officers.",
+    "Two thousand people die when a landslide causes the overtopping of the Vajont Dam north of Venice; the flooding wave completely wipes out several villages."
+  ],
+  "Indonesia": [
+    "Sole years of American Peace Corps program in Indonesia.",
+    "Sukarno leads the <i>Konfrontasi</i> campaign against the newly created Malaysia. (to 1965)",
+    "Following pressure from the United Nations and the American government of President John F. Kennedy, the Netherlands yields Western New Guinea to temporary UN supervision.",
+    "Parliament elects Sukarno 'President-for-life'.",
+    "Sukarno declares Indonesian policy to oppose the creation of Malaysia which incorporate North Borneo, marking the Indonesia&#x2013;Malaysia confrontation.",
+    "Following demonstrations in Jakarta to protest at the creation of Malaysia, the British Embassy is burned by a mob.",
+    "President Sukarno conducts the final reshuffle of the \"Working Cabinet\"."
+  ],
+  "Iceland": [
+    "Volcanic eruption forms Surtsey."
+  ],
+  "Germany": [
+    "Erhard became chancellor of West Germany."
+  ],
+  "Cyprus": [
+    "Greek Cypriots began to view the constitution as unworkable and proposed changes abolishing all veto rights and many ethnic clauses; these proposals were rejected by Turkish Cypriots and the Turkish government. Inter-communal fighting erupted. Tylliria was bombarded with napalm bombs. A UN Peace Keeping Force was sent in, but soon proved powerless to prevent incidents. Thousands of Turkish Cypriots retreated into enclaves where they were embargoed by the Greek Cypriots. The UN attempted to supply them with food and medicine. Akritas plan"
+  ],
+  "Cuba": [
+    "2nd Agrarian reform.",
+    "Compulsory military service introduced."
+  ],
+  "Cambodia": [
+    "Cambodia severed ties with South Vietnam."
+  ],
+  "Belgium": [
+    "Jeanne Deckers, the Singing Nun, becomes world famous."
+  ],
+  "Barbados": [
+    "The University of the West Indies opens a local campus at the Deep Water Harbour before moving to Cave Hill."
+  ],
+  "Bangladesh": [
+    "Inauguration of the Shaheed Minar language martyr memorial."
   ]
 }

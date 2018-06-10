@@ -1,8 +1,43 @@
 {
   "year": "1846",
-  "usa": [
+  "USA": [
     "<i>Mexican&#x2013;American War</i>: The war begins.",
     "Iowa becomes the 29th state.",
     "The Wilmot Proviso is introduced."
+  ],
+  "Spain": [
+    "<i>Second Carlist War</i>: The war began."
+  ],
+  "Slovenia": [
+    "First locomotive of the \"Southern Railway\" comes to Celje.",
+    "Trial run of the first train on the \"Southern Railway\" to Celje is performed.",
+    "The \"Southern Railway\" to Celje is open for public."
+  ],
+  "Poland": [
+    "Krak&#xF3;w Uprising begins",
+    "Krak&#xF3;w Uprising ends",
+    "Free City of Krak&#xF3;w incorporated into the Austrian Empire"
+  ],
+  "Philippine": [
+    "<i>La Esperanza</i> is established by Miguel Sanchez; the country's first daily newspaper lasted three years."
+  ],
+  "Nepal": [
+    "Nepal falls under sway of hereditary chief ministers known as Ranas, who dominate the monarchy and cut off country from outside world.",
+    "Kot Massacre takes place"
+  ],
+  "Kenya": [
+    "First Christian mission is founded by Johann Ludwig Krapf"
+  ],
+  "Italy": [
+    "Pope Pius IX is elected, and his support of the unification of Italy helps to further popularise the movement."
+  ],
+  "Haiti": [
+    "President Pierrot is overthrown; Jean-Baptiste Rich&#xE9; becomes President of Haiti"
+  ],
+  "England": [
+    "The Corn Laws were repealed."
+  ],
+  "Belgium": [
+    "Barth&#xE9;l&#xE9;my de Theux de Meylandt replaces Sylvain Van de Weyer as Prime Minister"
   ]
 }

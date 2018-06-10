@@ -1,8 +1,25 @@
 {
   "year": "1773",
-  "india": [
+  "Tonga": [
+    "Captain James Cook first visited Tonga and referred to it as the \"Friendly Islands\"."
+  ],
+  "Sweden": [
+    "Carl Wilhelm Scheele discovers oxygen.",
+    "The Royal Swedish Opera is founded."
+  ],
+  "Russia": [
+    "<i>Pugachev's Rebellion</i>: The army of the Cossack Yemelyan Pugachev attacked and occupied Samara.",
+    "A confederated sejm was forced to ratify the first partition of Poland."
+  ],
+  "Poland": [
+    "Creation of Commission of National Education"
+  ],
+  "India": [
     "Narayanrao Peshwa is murdered by his uncle Raghunathrao's wife in front of Raghunathrao.",
     "Regulating Act of 1773",
     "Warren Hastings appointed as first Governor-General of India"
+  ],
+  "Colombia": [
+    "Foundation of San Jose de C&#xFA;cuta by Juana Rangel de Cuellar"
   ]
 }

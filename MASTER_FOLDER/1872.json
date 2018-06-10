@@ -1,13 +1,33 @@
 {
   "year": "1872",
-  "usa": [
+  "USA": [
     "Yellowstone National Park is created.",
     "<i>Cr&#xE9;dit Mobilier scandal</i>: The scandal takes place.",
     "The Amnesty Act is passed.",
     "The Alabama Claims is settled.",
     "<i>U.S. presidential election, 1872</i>: An election is held."
   ],
-  "australia": [
+  "Spain": [
+    "<i>Third Carlist War</i>: The war began."
+  ],
+  "Philippine": [
+    "200 Filipinos, mostly soldiers, stage a mutiny in Cavite.",
+    "Priests Mariano Gomez, Jos&#xE9; Apolonio Burgos, and Jacinto Zamora (together known as Gomburza) are implicated in the Cavite Mutiny and executed."
+  ],
+  "Germany": [
+    "<i>Kulturkampf</i>: The School Supervision Act was passed, transferring all religious schools to state control."
+  ],
+  "Colombia": [
+    "Manuel Murillo Toro is President of the United States of Colombia for second time"
+  ],
+  "Brazil": [
+    "In the aftermath of the Paraguayan War, the new government of Paraguay makes peace with Brazil, grants reparations and territorial concessions.",
+    "Brazil conducts its first official census, the population is 9,930,478."
+  ],
+  "Belgium": [
+    "Partial legislative elections of 1872"
+  ],
+  "Australia": [
     "The Overland Telegraph Line linking Darwin and Adelaide opened."
   ]
 }

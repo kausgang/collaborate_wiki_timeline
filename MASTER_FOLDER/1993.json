@@ -1,22 +1,99 @@
 {
   "year": "1993",
-  "usa": [
-    "START II was signed between the United States and the Russian Federation.<sup id=\"cite_ref-579\" class=\"reference\">[579]</sup>",
-    "<i>1993 World Trade Center bombing</i>: A truck bomb exploded in the parking garage under the World Trade Center in Manhattan, killing six people and injuring 1,042 others.<sup id=\"cite_ref-580\" class=\"reference\">[580]</sup><sup id=\"cite_ref-581\" class=\"reference\">[581]</sup>",
-    "<i>Waco siege</i>: After the ATF failed to raid the compound of members of the religious sect the Branch Davidians, the FBI prompted a 51-day standoff; resulting in the deaths of 76 Branch Davidians including 18 children under the age of 10 after a fire broke out in the compound.<sup id=\"cite_ref-582\" class=\"reference\">[582]</sup><sup id=\"cite_ref-583\" class=\"reference\">[583]</sup>",
-    "<i>Battle of Mogadishu</i>: 18 U.S. military personnel, as a part of Operation Gothic Serpent, were killed and 84 wounded after a seventeen-hour assault was prompted by Somali militiamen.<sup id=\"cite_ref-584\" class=\"reference\">[584]</sup>",
-    "The Don't ask, don't tell policy, prohibiting openly gay and bisexual people from serving in the military, was signed into law.<sup id=\"cite_ref-585\" class=\"reference\">[585]</sup>",
-    "The Brady Handgun Violence Prevention Act was signed into law.<sup id=\"cite_ref-586\" class=\"reference\">[586]</sup>",
-    "The North American Free Trade Agreement was signed by the United States.<sup id=\"cite_ref-587\" class=\"reference\">[587]</sup>",
-    "<i>Great Flood of 1993</i>: Massive flooding along the Mississippi and Missouri Rivers killed 48 people and caused $30.2&#xA0;billion in damage; being the costliest flood in U.S. history.<sup id=\"cite_ref-588\" class=\"reference\">[588]</sup>"
+  "USA": [
+    "START II was signed between the United States and the Russian Federation.",
+    "<i>1993 World Trade Center bombing</i>: A truck bomb exploded in the parking garage under the World Trade Center in Manhattan, killing six people and injuring 1,042 others.",
+    "<i>Waco siege</i>: After the ATF failed to raid the compound of members of the religious sect the Branch Davidians, the FBI prompted a 51-day standoff; resulting in the deaths of 76 Branch Davidians including 18 children under the age of 10 after a fire broke out in the compound.",
+    "<i>Battle of Mogadishu</i>: 18 U.S. military personnel, as a part of Operation Gothic Serpent, were killed and 84 wounded after a seventeen-hour assault was prompted by Somali militiamen.",
+    "The Don't ask, don't tell policy, prohibiting openly gay and bisexual people from serving in the military, was signed into law.",
+    "The Brady Handgun Violence Prevention Act was signed into law.",
+    "The North American Free Trade Agreement was signed by the United States.",
+    "<i>Great Flood of 1993</i>: Massive flooding along the Mississippi and Missouri Rivers killed 48 people and caused $30.2&#xA0;billion in damage; being the costliest flood in U.S. history."
   ],
-  "australia": [
+  "Sudan": [
+    "Bashir was appointed President."
+  ],
+  "Slovenia": [
+    "Slovenia is accepted to the Council of Europe."
+  ],
+  "Serbia": [
+    "The Croatian army invades southern regions of the self-proclaimed Republic of Serbian Krajina. In the clashes that follow between different paramilitary units up to 500 Krajina Serbs and 120 Croats lose their lives. The Croatian Army withdraws its forces after a successful campaign.",
+    "A Croatian military operation in the Medak Pocket is launched in September 1993 led by Mirko Norac and Rahim Ademi, the Hague Tribunal indictees. The predominantly Serbian population of the several adjacent villages, 400 strong, leaves the area. 16 are killed."
+  ],
+  "Rwanda": [
+    "The Arusha Accords are signed between President Habyarimana and leaders of the RPF in Arusha, Tanzania, ending the Rwandan Civil War."
+  ],
+  "Poland": [
+    "Lufthansa Flight 2904",
+    "Parliamentary election"
+  ],
+  "Philippine": [
+    "Sarmenta-Gomez Rape-slay case.",
+    "A floating pagoda sinks in the annual Bocaue River Festival in Bocaue, Bulacan, 279 devotees drown.",
+    "Remains of former Pres. Marcos are returned to Laoag City.",
+    "Former first lady Imelda Marcos is found by Sandiganbayan guilty of corruption and sentenced to 18&#x2013;24 years in prison."
+  ],
+  "Malta": [
+    "Local Councils are re-established in Malta."
+  ],
+  "Malaysia": [
+    "The Parliament passed amendments to the Constitution with the aim of stripping the royalty of legal immunity.",
+    "Kuala Lumpur International Airport construction began."
+  ],
+  "Italy": [
+    "Giulio Andreotti is under investigation for collusion with the mafia.",
+    "The public overwhelmingly backed the abrogation of the existing proportional representation parliamentary electoral law in a referendum, for the benefit of a majority system.",
+    "Prime Minister Giuliano Amato resigns.",
+    "Carlo Azeglio Ciampi, former governor of the national bank, was appointed head of the government and appointed a technical government without political influences.",
+    "Italian Parliament denied permission to proceed against Bettino Craxi, accused of corruption. Several members of the government, having been in office just three days, resigned in protest; among them were Francesco Rutelli, Minister of the Environment and Vincenzo Visco, Minister of Finance.",
+    "The Sicilian Mafia organizes some attacks in Rome, Florence and Milan.",
+    "A mixed system was introduced by the Parliament.",
+    "Parliament grants authorization to proceed against Bettino Craxi."
+  ],
+  "Israel": [
+    "Israel and the PLO signed the Oslo I Accord in Washington, D.C. The accords provided for the withdrawal of some IDF forces from the West Bank and Gaza Strip and for the establishment of a self-governing authority for the Palestinians, the Palestinian National Authority."
+  ],
+  "Indonesia": [
+    "Suharto seeks a sixth term and is easily re-elected."
+  ],
+  "Germany": [
+    "Alliance '90/The Greens was established from the merger of Alliance 90 and the Green Party."
+  ],
+  "Cuba": [
+    "The Cuban government opens state enterprises to private investment."
+  ],
+  "Colombia": [
+    "Massive celebration of the winning of Colombian soccer team in a play against Argentine team in Buenos Aires with final score 5&#x2013;0. Riots all over the country.",
+    "The national government achieves commercial treaties with Venezuela, Mexico and Ecuador",
+    "Galeras volcano eruption killed nine people, including six scientists who had descended into the volcano's crater to sample gases.",
+    "Bomb explodes on 15th Avenue of Bogot&#xE1;, near the intersection with 93rd Street (in front of Centro 93 mall). 10 people die, over 100 injured",
+    "Pablo Escobar dies in combats with the police"
+  ],
+  "Cambodia": [
+    "Cambodia held free elections. The Khmer Rouge boycotted them.",
+    "A new constitution was ratified, under which the Cambodian monarchy was restored. Norodom Sihanouk returned to the throne."
+  ],
+  "Burundi": [
+    "<i>Burundian presidential election, 1993</i>: The Hutu Melchior Ndadaye won the election.",
+    "<i>Burundi Civil War</i>: Ndadaye was assassinated by Tutsi extremists, starting another genocide against Tutsis and a civil war."
+  ],
+  "Brazil": [
+    "A constitutional referendum is held to determine the form of government of the country.",
+    "Candel&#xE1;ria massacre: Brazilian police officers kill eight street kids in Rio de Janeiro.",
+    "Vig&#xE1;rio Geral massacre.",
+    "Brazil's Supreme Court rules that former President Fernando Collor de Mello may not hold elected office again until 2000 due to political corruption."
+  ],
+  "Belgium": [
+    "King Baudouin of Belgium dies in Motril",
+    "Albert, Prince of Li&#xE8;ge becomes 6th King of the Belgians"
+  ],
+  "Australia": [
     "<i>Australian federal election, 1993</i>: Keating defeats John Hewson; the Australian Greens stand candidates for the first time."
   ],
-  "argentina": [
+  "Argentina": [
     "Argentina joins UNFICYP mission at Cyprus. As of 2006, ground troops and helicopters are serving there and since 1999 have other Latin American countries troops embedded."
   ],
-  "albania": [
+  "Albania": [
     "Nexhmije Hoxha is sentenced to nine years' imprisonment, having been found guilty of embezzling state funds.",
     "Former prime minister Vilson Ahmeti is placed under house arrest, following charges of corruption.",
     "Manfred W&#xF6;rner, Secretary General of NATO visits Tirana.",

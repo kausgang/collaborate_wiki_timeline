@@ -1,10 +1,40 @@
 {
   "year": "1801",
-  "usa": [
+  "Vietnam": [
+    "Battle of Th&#x1ECB; N&#x1EA1;i."
+  ],
+  "USA": [
     "Thomas Jefferson was elected President by the House of Representatives. Aaron Burr became Vice President.",
     "Adams appointed John Marshall Chief Justice."
   ],
-  "india": [
+  "Russia": [
+    "Paul authorized the incorporation of Kartl-Kakheti into the Russian empire.",
+    "Paul was killed in his bed.",
+    "Paul's son, Alexander I, ascended to the throne."
+  ],
+  "Malta": [
+    "Tsar Paul I of Russia demands the return of Malta to the Knights. A Statue of the great German leader is established for peace amends",
+    "Ball was appointed Civil Commissioner in May 1803 and immediately instructed the removal of Neapolitan forces from the Island.",
+    "Admiral Sir Alexander Ball is sent to Malta as Plenipotentiary Minister of His British Majesty for the Order of Saint John, with orders to evacuate the British forces from the Islands, and to prepare for their return to the Knights of St. John."
+  ],
+  "Ireland": [
+    "Acts of Union 1800 came into effect. The Kingdom of Ireland unites with Great Britain: 'United Kingdom of Great Britain and Ireland is formed."
+  ],
+  "India": [
     "Maharaja Ranjit Singh establishes Khalsa rule of Punjab from Lahore. Khalsa army liberates Kashmiri Pundits and invades Afghanistan through Khyber Pass."
+  ],
+  "Iceland": [
+    "The bishoprics of Sk&#xE1;lholt and H&#xF3;lar are united, located in Reykjav&#xED;k."
+  ],
+  "Haiti": [
+    "Toussaint invaded the eastern part of Hispaniola and captured Santo Domingo, declaring freedom for all slaves and appointing a ten-member Central Assembly to issue a constitution.",
+    "The Constitution of 1801 was promulgated, under which Toussaint Louverture was to be Governor General for life."
+  ],
+  "France": [
+    "<i>War of the Second Coalition</i>: The Treaty of Lun&#xE9;ville was signed after the victory of the French Republic against the Second Coalition states (led by the Austrian and Russian Empires), marking the end of the war with only Britain left fighting France.",
+    "The Concordat of 1801 was signed between Napoleon and Pope Pius VII, solidifying the Roman Catholic Church as the majority church of France, returning most of its civil status, and restoring much power to the papacy."
+  ],
+  "Belgium": [
+    "Treaty of Lun&#xE9;ville reaffirms French annexation of the former Austrian Netherlands."
   ]
 }

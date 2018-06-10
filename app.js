@@ -5,7 +5,7 @@ var mergeJSON = require("merge-json"); //https://www.npmjs.com/package/merge-jso
 var DATA_FOLDER = 'DOWNLOADED_DATA';
 var distinct = [];
 var count = 0;
-var list_of_countries = ['afgan','albania','armenia','argentina','australia','india','usa']; //add country name folder here
+var list_of_countries = ['Afghanistan','Albania','Argentina','Armenia','Australia','Bangladesh','Barbados','Belgium','Bhutan','Brazil','Burma','Burundi','Cambodia','Canada','Chile','China','Colombia','Cuba','Cyprus','East_Timor','England','Estonia','Fiji','France','Georgia','Germany','Haiti','Iceland','India','Indonesia','Ireland','Israel','Italy','Japan','Kenya','Latvia','Lebanon','Malaysia','Malta','Mexico','Nepal','Netherland','Peru','Philippine','Poland','Russia','Rwanda','Serbia','Singapore','Slovenia','Spain','Sudan','Sweden','Switzerland','Syria','Taiwan','Tajikistan','Tanzania','Tonga','USA','Vietnam']; //add country name folder here
 var MASTER_FOLDER = 'MASTER_FOLDER' ;
 
 //check if master folder exists..if not create it

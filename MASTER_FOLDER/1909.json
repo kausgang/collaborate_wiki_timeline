@@ -1,19 +1,36 @@
 {
   "year": "1909",
-  "usa": [
-    "William Howard Taft implemented Dollar Diplomacy.<sup id=\"cite_ref-36\" class=\"reference\">[36]</sup>",
-    "The NAACP was founded by W. E. B. Du Bois.<sup id=\"cite_ref-37\" class=\"reference\">[37]</sup>",
-    "Robert Peary became the first person to reach the North Pole.<sup id=\"cite_ref-38\" class=\"reference\">[38]</sup>",
-    "The first redesigned Lincoln Penny was released to the public.<sup id=\"cite_ref-39\" class=\"reference\">[39]</sup>"
+  "USA": [
+    "William Howard Taft implemented Dollar Diplomacy.",
+    "The NAACP was founded by W. E. B. Du Bois.",
+    "Robert Peary became the first person to reach the North Pole.",
+    "The first redesigned Lincoln Penny was released to the public."
   ],
-  "india": [
+  "Sweden": [
+    "The Stockholm School of Economics (<i>Handelsh&#xF6;gskolan i Stockholm</i>) is founded.",
+    "The General Strike of 1909 (Swedish General Strike)."
+  ],
+  "Malaysia": [
+    "The Anglo-Siamese Treaty of 1909 was signed by the United Kingdom and Thailand, effectively dissecting the northern Malay states."
+  ],
+  "Kenya": [
+    "Witchcraft is illegal in East Africa"
+  ],
+  "India": [
     "Morley-Minto Reforms"
   ],
-  "australia": [
+  "Cuba": [
+    "U.S. occupation ends. Jos&#xE9; Miguel G&#xF3;mez of the Liberal Party becomes president."
+  ],
+  "Belgium": [
+    "Death of Leopold II, King of the Belgians",
+    "Accession of Albert I as King of the Belgians"
+  ],
+  "Australia": [
     "The first powered aeroplane flight in Australia is made.",
     "Alfred Deakin become Prime Minister."
   ],
-  "armenia": [
+  "Armenia": [
     "Adana Massacre: An estimated 15,000&#x2013;30,000 are killed."
   ]
 }

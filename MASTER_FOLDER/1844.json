@@ -1,6 +1,32 @@
 {
   "year": "1844",
-  "usa": [
+  "USA": [
     "<i>U.S. presidential election, 1844</i>: An election is held."
+  ],
+  "Singapore": [
+    "The Tan Tock Seng Hospital begins operation.",
+    "Raffles Girls' School is established."
+  ],
+  "Philippine": [
+    "Narciso Claver&#xED;a y Zald&#xFA;a appointed Governor-General (1844&#x2013;1849)"
+  ],
+  "Haiti": [
+    "The Dominican Republic declares its independence from Haiti",
+    "The <i>Piquets</i>, peasants of southern Haiti led by Jean-Jacques Acaau, revolt against the government",
+    "The Piquets force Riviere-H&#xE9;rard into exile; Philippe Guerrier is appointed President of Haiti"
+  ],
+  "Germany": [
+    "Friedrich Nietzsche was born.",
+    "Karl Benz was born"
+  ],
+  "Cuba": [
+    "Known as the Year of the Lash, when an uprising of black slaves was brutally suppressed."
+  ],
+  "China": [
+    "Wei Yuan published the <i>Illustrated Treatise on the Maritime Kingdoms</i>.",
+    "The Qing dynasty and the United States signed the Treaty of Wanghia, according to which the United States was granted most favoured nation (MFN) status and extraterritoriality was granted to its citizens resident in China."
+  ],
+  "Chile": [
+    "Spain recognizes the Independence of Chile"
   ]
 }

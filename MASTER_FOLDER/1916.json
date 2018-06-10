@@ -1,22 +1,69 @@
 {
   "year": "1916",
-  "usa": [
-    "Jeannette Rankin of Montana became the first woman elected to the United States Congress.<sup id=\"cite_ref-67\" class=\"reference\">[67]</sup>",
+  "USA": [
+    "Jeannette Rankin of Montana became the first woman elected to the United States Congress.",
     "The Adamson Railway Labor Act was signed into law.",
-    "The Federal Farm Loan Act was signed into law.<sup id=\"cite_ref-68\" class=\"reference\">[68]</sup>",
-    "The Jones Act was signed into law.<sup id=\"cite_ref-69\" class=\"reference\">[69]</sup>",
-    "<i>United States presidential election, 1916</i>: President Woodrow Wilson was reelected to a second term, defeating Associate Supreme Court Justice Charles Evans Hughes of New York.<sup id=\"cite_ref-70\" class=\"reference\">[70]</sup>"
+    "The Federal Farm Loan Act was signed into law.",
+    "The Jones Act was signed into law.",
+    "<i>United States presidential election, 1916</i>: President Woodrow Wilson was reelected to a second term, defeating Associate Supreme Court Justice Charles Evans Hughes of New York."
   ],
-  "india": [
+  "Tanzania": [
+    "Dar es Salaam is occupied by troops from the United Kingdom and South Africa."
+  ],
+  "Rwanda": [
+    "Rwanda is occupied by Belgian forces."
+  ],
+  "Russia": [
+    "<i>Basmachi Revolt</i>: Nicholas issued a decree ordering the conscription of Central Asians.",
+    "By the Act of 5 November, the German government established the nominally independent Kingdom of Poland.",
+    "Royal adviser Grigori Rasputin was murdered by a group of nobles in the house of Prince Felix Yussupov."
+  ],
+  "Poland": [
+    "Signing of the Act of 5th November between Germany and Austria"
+  ],
+  "Philippine": [
+    "The Jones Law is passed establishing an all-Filipino legislature",
+    "Manuel Quezon elected Senate President while Sergio Osmenna is elected as House Speaker of the House of Representatives of the Commonwealth of the Philippines"
+  ],
+  "Lebanon": [
+    "Turkish authorities publicly executed 21 Syrians and Lebanese in Damascus and Beirut, respectively, for alleged anti-Turkish activities."
+  ],
+  "Ireland": [
+    "<i>Easter Rising</i>: The Irish Republican Brotherhood led an action which seized key government buildings in Dublin, and issued the Proclamation of the Irish Republic.",
+    "<i>Easter Rising</i>: The leader of the uprising ordered his followers to surrender."
+  ],
+  "India": [
     "Lucknow Pact"
   ],
-  "australia": [
+  "Iceland": [
+    "The political parties Social Democratic Party and Progressive Party are founded."
+  ],
+  "Germany": [
+    "<i>Battle of Jutland</i>: The British Grand Fleet and the German High Seas Fleet met in battle in the North Sea, at a cost of some ten thousand lives and several ships sunk.",
+    "<i>Brusilov Offensive</i>: The Russian Empire launched an offensive across the Eastern Front in the Austrian Kingdom of Galicia and Lodomeria which would cost some half million Russian casualties and over a million German and Austrian casualties.",
+    "<i>Battle of the Somme</i>: A British force drove the German 2nd Army behind its first line of defense at a cost of some sixty thousand casualties.",
+    "<i>Battle of Verdun</i>: The French Second Army consolidated control over Fort Douaumont in Douaumont, ending major operations in a battle which cost as many as one million French and German casualties.",
+    "The Turnip Winter begins--a period of famine in which the German people were driven to subsist on turnips."
+  ],
+  "East_Timor": [
+    "A definitive border between Portuguese and Dutch territories was drawn in the Hague."
+  ],
+  "China": [
+    "Yuan died."
+  ],
+  "Brazil": [
+    "The liner <i>Pr&#xED;ncipe de Asturias</i> runs aground in fog on the shoals out of Ponta do Boi, in the island of Sao Sebasti&#xE3;o, while trying to approach the port of Santos. At least 445 people out of the 588 aboard are killed.",
+    "Brazilian merchant ship Rio Branco is sunk by a German submarine. Because the ship is in restricted waters and registered under the British flag, and most of its crew is Norwegian, it is not considered an illegal attack by the Brazilian government, despite public protests.",
+    "Brazilian Naval Aviation is established, in preparation for the country's participation in the First World War.",
+    "The capture of rebel leader Deodato Manuel Ramos (\"Adeodato\") marks the effective end of the Contestado War."
+  ],
+  "Australia": [
     "Hotels are forced to close at 6 p.m., leading to the beginning of the \"six o'clock swill\"",
     "Australia suffers heavy casualties in the Western Front Battle of the Somme",
     "The Returned Sailors&#x2019; and Soldiers&#x2019; Imperial League of Australia, the forerunner to the Returned and Services League of Australia is founded",
     "The Labor government under Billy Hughes splits over conscription. First referendum on conscription is rejected"
   ],
-  "argentina": [
+  "Argentina": [
     "Start of presidency of Hip&#xF3;lito Yrigoyen, UCR democratic reformist"
   ]
 }

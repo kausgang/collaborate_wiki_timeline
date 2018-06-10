@@ -1,6 +1,31 @@
 {
   "year": "1795",
-  "india": [
+  "Taiwan": [
+    "Chen Zhouchuan rebellion"
+  ],
+  "Russia": [
+    "<i>Battle of Krtsanisi</i>: The Persian army demolished the armed forces of Kartl-Kakheti.",
+    "The third partition of Poland divided up the remainder of its territory."
+  ],
+  "Poland": [
+    "Third Partition of Poland",
+    "Abdication of Stanis&#x142;aw August Poniatowski"
+  ],
+  "India": [
     "Death of Ahilyabai Holkar"
+  ],
+  "Haiti": [
+    "Toussaint captured the city of Dondon a second time, this time for France.",
+    "The Treaty of B&#xE2;le was ratified, ending Spain's involvement in the conflict and surrendering the eastern part of Hispaniola to France."
+  ],
+  "France": [
+    "The Directory seized power over the Convention."
+  ],
+  "Belgium": [
+    "Former Austrian Netherlands and Prince-Bishopric of Li&#xE8;ge unilaterally annexed to the French First Republic.",
+    "Decree of 14 Brumaire, Year IV brings into force in Belgium the French laws of 1791 abolishing craft guilds."
+  ],
+  "Barbados": [
+    "British government establishes a permanent land force in the eastern Caribbean, based in Barbados."
   ]
 }

@@ -1,14 +1,29 @@
 {
   "year": "1829",
-  "usa": [
+  "USA": [
     "Jackson is inaugurated."
   ],
-  "australia": [
+  "Russia": [
+    "<i>Russo-Turkish War (1828&#x2013;1829)</i>: The Treaty of Adrianople was signed, ceding the eastern shore of the Black Sea and the mouth of the Danube to the Russians."
+  ],
+  "Poland": [
+    "Coronation of Nicholas I of Russia"
+  ],
+  "Ireland": [
+    "<i>Catholic Emancipation</i>: The Catholic Relief Act 1829 was passed, which allowed Catholics to sit in Parliament."
+  ],
+  "England": [
+    "The Catholic Relief Act 1829 was passed."
+  ],
+  "Chile": [
+    "Chilean Civil War of 1829. After several battles, Joaqu&#xED;n Prieto defeats Ram&#xF3;n Freire in the Battle of Lircay."
+  ],
+  "Australia": [
     "Charles Sturt charted the Darling River.",
     "Captain Charles Fremantle took possession of the western side of New Holland for the British crown.",
     "The settlement of Perth was founded."
   ],
-  "argentina": [
+  "Argentina": [
     "Juan Manuel de Rosas became governor of Buenos Aires Province"
   ]
 }

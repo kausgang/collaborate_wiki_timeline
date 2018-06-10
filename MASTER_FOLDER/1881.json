@@ -1,6 +1,6 @@
 {
   "year": "1881",
-  "usa": [
+  "USA": [
     "<i>Gunfight at the O.K. Corral</i>: A gunfight takes place in Tombstone, Arizona Territory.",
     "James Garfield is inaugurated President of the United States.",
     "Garfield is assassinated.",
@@ -10,7 +10,24 @@
     "Billy the Kid is shot and killed by Sheriff Pat Garrett.",
     "<i>A Century of Dishonor</i> is written by Helen Hunt Jackson."
   ],
-  "albania": [
+  "Taiwan": [
+    "Government troops are decreased to 4,500"
+  ],
+  "Sudan": [
+    "<i>Mahdist War</i>: A war began against the United Kingdom and Egypt"
+  ],
+  "Russia": [
+    "Constitution proposed, Alexander II agrees to it but doesn't get a chance to sign it",
+    "Alexander was assassinated by Ignacy Hryniewiecki of the People's Will. His son, Alexander III, becomes tsar.",
+    "Persia officially recognized Russia's annexation of Khwarazm in the Treaty of Akhal."
+  ],
+  "Chile": [
+    "Chilean troops occupy Lima, the capital of Per&#xFA;. Boundary treaty of 1881 between Chile and Argentina."
+  ],
+  "Barbados": [
+    "The Executive Council is created separate of the Upper House by an Act of local Parliament."
+  ],
+  "Albania": [
     "Ottoman forces crushed Albanian resistance fighters at Prizren. The leaders of the League of Prizren and their families were arrested and deported."
   ]
 }

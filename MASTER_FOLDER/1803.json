@@ -1,14 +1,43 @@
 {
   "year": "1803",
-  "usa": [
+  "USA": [
     "The Supreme Court issued a decision in <i>Marbury v. Madison</i> which overturned a portion of Section 13 of the Judiciary Act of 1789.",
     "<i>Louisiana Purchase</i>: The purchase was made.",
     "Ohio, formerly the Northwest Territory, became the 17th state."
   ],
-  "india": [
+  "Ireland": [
+    "<i>Second United Irishmen rebellion</i>: The Irish nationalist Robert Emmet attempted to seize Dublin Castle."
+  ],
+  "Indonesia": [
+    "First phase of Padri War. (to 1825)"
+  ],
+  "India": [
     "Second Anglo-Maratha War begins"
   ],
-  "australia": [
+  "Haiti": [
+    "Toussaint died in the French prison of Fort de Joux.",
+    "The flag of Haiti was created during a meeting between Dessalines and P&#xE9;tion in l'Arcahaie and sewn by Catherine Flon.",
+    "<i>Battle of Verti&#xE8;res</i>: During the last major battle of the revolution, Haitian forces under Dessalines and P&#xE9;tion defeated the French.",
+    "French general Rochambeau signs a document of surrender and agrees to evacuate French troops from Saint-Domingue; Rochambeau is later given as a prisoner to the British",
+    "Dessalines' army arrives in Cap-Fran&#xE7;ais; Christophe and Clerveaux issue a preliminary declaration of independence",
+    "French forces surrender M&#xF4;le Saint-Nicolas to Dessalines' army, officially ending French presence on the island"
+  ],
+  "Germany": [
+    "Francis II, emperor of the Holy Roman Empire, ratified the <i>Reichsdeputationshauptschluss</i>, consolidating the states of the Empire especially through the secularization of ecclesiastical lands and abolishment of free imperial cities.",
+    "<i>Napoleonic Wars</i>: The Great Britain declared war on France.",
+    "The Convention of Artlenburg, dissolved Hanover and incorporating its territory into France."
+  ],
+  "France": [
+    "<i>Louisiana Purchase</i>: France sold Louisiana to the United States of America, renouncing its last territorial possessions on continental North America.",
+    "<i>Battle of Verti&#xE8;res</i>: The viscount of Rochambeau was defeated and forced to surrender to the revolutionary army of Jean-Jacques Dessalines."
+  ],
+  "Colombia": [
+    "San Andres y Providencia islands are annexed to the Viceroyalty of New Granada"
+  ],
+  "Burma": [
+    "Siamese invasion of Kengtung fails (to 1804)"
+  ],
+  "Australia": [
     "Matthew Flinders completed the first circumnavigation of the continent (still known as \"New Holland\")"
   ]
 }

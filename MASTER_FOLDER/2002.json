@@ -1,12 +1,73 @@
 {
   "year": "2002",
-  "usa": [
-    "The United States officially withdraws from the Anti-Ballistic Missile Treaty.<sup id=\"cite_ref-9\" class=\"reference\">[9]</sup>",
-    "The No Child Left Behind Act education reform bill was signed into law.<sup id=\"cite_ref-10\" class=\"reference\">[10]</sup>",
-    "<i>Beltway sniper attacks</i>: Ten people were killed and three were injured in attacks around the Washington, D.C. area.<sup id=\"cite_ref-11\" class=\"reference\">[11]</sup>",
-    "The United States Department of Homeland Security was created.<sup id=\"cite_ref-12\" class=\"reference\">[12]</sup>"
+  "USA": [
+    "The United States officially withdraws from the Anti-Ballistic Missile Treaty.",
+    "The No Child Left Behind Act education reform bill was signed into law.",
+    "<i>Beltway sniper attacks</i>: Ten people were killed and three were injured in attacks around the Washington, D.C. area.",
+    "The United States Department of Homeland Security was created."
   ],
-  "india": [
+  "Tanzania": [
+    "The Igandu train disaster kills more than 200 people and is Tanzania's worst train crash.",
+    "Mkapa's government is criticized for purchasing a &#xA3;15m presidential jet shortly before reaching an agreement with the UK for &#xA3;270m in aid."
+  ],
+  "Taiwan": [
+    "Entry into the World Trade Organization.",
+    "Penetration rate of cellular phones exceeds 100%."
+  ],
+  "Switzerland": [
+    "Switzerland was ratified as a member of the United Nations."
+  ],
+  "Sudan": [
+    "A ceasefire was agreed between the government and the SPLA.",
+    "<i>Second Sudanese Civil War</i>: The Machakos Protocol ended the nineteen-year civil war."
+  ],
+  "Slovenia": [
+    "Slovenia Census 2002 reference date.",
+    "The European Commission of the EU has announced that Slovenia, among ten countries: Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland and Slovakia, has met its criteria for entry, opening the way for EU's expansion from 15 member states to 25.",
+    "third presidential elections for the period 2002&#x2013;2007. There are 9 candidates.",
+    "During the Prague (Czech Republic) NATO summit Slovenia is invited to start talks in order to join the Alliance together with six countries Estonia, Latvia, Lithuania, Slovakia, Bulgaria and Romania.",
+    "second round of the third presidential elections. Janez Drnov&#x161;ek becomes the second president for the period 2003&#x2013;2008 from the victory over another candidate Barbara Brezigar."
+  ],
+  "Singapore": [
+    "Singapore and Japan sign the Japan-Singapore Economic Agreement."
+  ],
+  "Russia": [
+    "<i>Moscow theater hostage crisis</i>: Chechen rebels seized the House of Culture theater in Moscow, taking approximately 700 theatergoers hostage, and demanded an immediate Russian withdrawal from Chechnya.",
+    "<i>Moscow theater hostage crisis</i>: The police pumped anesthetic into the building, then stormed it from every entrance, executing all 42 terrorists. 120 hostages also died due to cumulative effects of intoxication, hunger and maltreatment by the terrorists."
+  ],
+  "Poland": [
+    "Census",
+    "Local elections"
+  ],
+  "Philippine": [
+    "Former Pres. Estrada admits signing &#x20B1;500 million <i>Jose Velarde</i> bank account in Equitable-PCI Bank.",
+    "Mindanao earthquake",
+    "Hostage crisis in Pasay City Bus Terminal, a 4-year-old boy was killed.",
+    "Death of Abu Sabaya, leader of Abu Sayyaf."
+  ],
+  "Nepal": [
+    "Parliament dissolved, fresh elections called amid political confrontation over extending the state of emergency. Sher Bahadur Deuba heads interim government, renews emergency.",
+    "King Gyanendra dismisses Deuba and indefinitely puts off elections set for November. Lokendra Bahadur Chand appointed as PM."
+  ],
+  "Kenya": [
+    "62% rejects KANU's presidential candidate\n<p>Moi becomes longest served president of Kenya's history</p>\n"
+  ],
+  "Italy": [
+    "The euro begins circulating as new official currency of Italy."
+  ],
+  "Israel": [
+    "Construction of the Israeli West Bank barrier began."
+  ],
+  "Indonesia": [
+    "Nahdlatul Ulama and Muhammadiyah, the largest Muslim organisations in Indonesia, issue joint statements critical of militant Islamists.",
+    "Peace talks in Malino, South Sulawesi appear to end three years of Christian-Muslim violence in Maluku and Poso.",
+    "Tommy Suharto is sentenced to fifteen years jail for illegal possession of arms, contempt of law, and masterminding the assassination of a Supreme Court judge who had convicted him for graft.",
+    "House Speaker Akbar Tandjung is sentenced to three years jail for corruption.",
+    "Bombs in the Kuta nightclub district in Bali kill 202 people, the world's deadliest terrorist attack since 11 September 2001. Indonesian police, aided by ten nations, track down Jemaah Islamiyah operatives.",
+    "Eurico Guterres is sentenced to ten years prison for crimes committed following the 1999 ballot in East Timor.",
+    "The Indonesian government and GAM sign a peace accord aimed at ending decades of violence in Aceh. The deal breaks down the following year."
+  ],
+  "India": [
     "War of words between Indian and Pakistani leaders intensifies. Actual war seems imminent.",
     "India successfully test-fires a nuclear-capable ballistic missile &#x2013; the Agni &#x2013; off its eastern coast.",
     "Inter-religious bloodshed breaks out after 59 Hindu pilgrims returning from Ayodhya are killed in a train fire in Godhra, Gujarat. More than 1,000 people, die in subsequent riots. (Police and officials blamed the fire on a Muslim mob; a 2005 government investigation said it was an accident, though later court and SIT report held Muslim mob responsible.)",
@@ -14,20 +75,79 @@
     "UK, US urge their citizens to leave India and Pakistan, while maintaining diplomatic offensive to avert war.",
     "Retired scientist and architect of India's missile programme A.P.J. Abdul Kalam is elected president."
   ],
-  "australia": [
-    "2002 Bali bombings, the deadliest act of terrorism in the history of Indonesia, killing 202 people (including 88 Australians).<sup id=\"cite_ref-1\" class=\"reference\">[1]</sup>"
+  "Germany": [
+    "Physical Euro currency was introduced. The Deutsche Mark lost its status as legal tender in Germany."
   ],
-  "argentina": [
+  "France": [
+    "Introduction of the first euro coins and bills replacing the legacy currency, the franc."
+  ],
+  "Estonia": [
+    "Estonia hosted the first Eurovision Song Contest in a former Soviet republic.",
+    "North Atlantic Treaty Organization Summit in Prague: Bulgaria, Estonia, Latvia, Lithuania, Romania, Slovakia and Slovenia were invited to join NATO."
+  ],
+  "East_Timor": [
+    "East Timor became an independent nation."
+  ],
+  "Cuba": [
+    "Russia's last military base in Cuba, at Lourdes, closes.",
+    "U.S. Under Secretary of State John R. Bolton accuses Cuba of trying to develop biological weapons, adding the country to Washington's list of \"axis of evil\" countries.",
+    "Former U.S. President Jimmy Carter visits Cuba. He praises the Varela project and criticizes the U.S. embargo."
+  ],
+  "Colombia": [
+    "A bomb kills a child and four police officers and injures 28 people in Bogot&#xE1;. Rebel group FARC is blamed",
+    "A car bomb kills five and injures 40 in the city of Florencia in the department of Caquet&#xE1;",
+    "President Pastrana ended the peace talks and ordered the armed forces to start retaking the FARC-EP controlled zone of San Vicente del Caguan",
+    "Oxygen Green Party Politician Ingrid Betancourt is kiddnapped by FARC guerrilla",
+    "President Uribe decided to appoint Marta Luc&#xED;a Ram&#xED;rez as Minister of Defense becoming the second woman in Latin America to ever hold this title, after Michelle Bachelet",
+    "Two bombs explode in the restaurant district of Villavicencio, killing twelve and injuring 70. FARC is the prime suspect for the attack.",
+    "Two police officers and a girl are killed by a bomb concealed in the corpse of a peasant (Pedro Nel Camacho) apparently executed by the FARC guerrilla with such purpose ",
+    "12 politicians in Valle del Cauca are kidnapped using a hoax antibomb operative, starting the Valle del Cauca Deputies hostage crisis",
+    "A rocket explodes near the studios of RCN TV in Bogot&#xE1;.",
+    "During an assassination attempt of then-presidential candidate &#xC1;lvaro Uribe V&#xE9;lez a bomb kills two and injures 20 in Barranquilla. Rebel group FARC is blamed.",
+    "Bojaya massacre in Choc&#xF3; Department. A bomb destroys the local church. 117 dead, 114 injured.",
+    "Cali bishop Isaias Duarte is murdered by hitmen",
+    "&#xC1;lvaro Uribe is elected president of Colombia",
+    "Four rounds of mortars are fired against the Presidential Palace in Bogot&#xE1; during the inauguration ceremony of President &#xC1;lvaro Uribe V&#xE9;lez. 13 people, mostly homeless, die and 50 are wounded. FARC is blamed.",
+    "Guerrilla leader alias Simon Trinidad is extradited to USA",
+    "A bomb destroys 30th floor of the Intercontinental Hotel in downtown Bogot&#xE1;. 37 people injured."
+  ],
+  "China": [
+    "An outbreak of severe acute respiratory syndrome began in Guangdong."
+  ],
+  "Chile": [
+    "A general [[]] is performed all over the country."
+  ],
+  "Brazil": [
+    "Brazil wins its 5th FIFA World Cup title by defeating Germany 2-0 in the 2002 FIFA World Cup Final.",
+    "Luiz In&#xE1;cio Lula da Silva wins the Brazilian general election, 2002 with 52.7&#xA0;million votes (61.3% of the total)."
+  ],
+  "Bhutan": [
+    "Bhutan's population reaches an estimated 600,000."
+  ],
+  "Belgium": [
+    "Euro enters into circulation to replace the Belgian franc",
+    "Frank De Winne is the second Belgian in space",
+    "Str&#xE9;py-Thieu boat lift is completed"
+  ],
+  "Bangladesh": [
+    "Sale of polythene bags banned in Dhaka for environmental reasons.",
+    "Death penalty introduced for acid attacks.",
+    "Transparency International lists Bangladesh amongst the most corrupt nations.\n<p><br></p>\n"
+  ],
+  "Australia": [
+    "2002 Bali bombings, the deadliest act of terrorism in the history of Indonesia, killing 202 people (including 88 Australians)."
+  ],
+  "Argentina": [
     "Duhalde imposes further financial measures, including converting dollar accounts to pesos, scrapping 1:1 parity with the dollar, and social measures to bring economy under control"
   ],
-  "albania": [
+  "Albania": [
     "Albania is working to conclude free-trade agreements with Macedonia, Yugoslavia, Bosnia and Hercegovina, and Croatia. The economy suffers a slight setback. Unemployment creeps up during the year. A United Nations Development Project report estimates that one-third of the population lives in poverty, earning less than $1 per capita per day. Large segments of the population live from subsistence agriculture and do not receive unemployment benefits.",
     "Prime Minister of Albania Ilir Meta resigns in anger over a continuing row with the leader of his Socialist Party, Fatos Nano, who has been resisting the appointment of ministers to vacant cabinet positions. Earlier that day the opposition Democratic Party ended its four-month boycott of the People's Assembly.",
     "Defense Minister Pandeli Majko receives the backing of the various warring factions within the ruling Socialist Party to be the country's next prime minister. Nominated by outgoing premier Meta, Majko agrees to accommodate supporters of party leader Nano in a new cabinet. The previous deadlock led the International Monetary Fund (IMF) and the World Bank to freeze aid payments until the situation was resolved. On February 16 President Meidani accepts Majko's proposed cabinet, including Kastriot Islami as finance minister, Luan Rama as defense minister, and Stefan &#xC7;ipa as interior minister; Arta Dade is to remain as foreign minister. The cabinet is approved by Parliament on February 22.",
     "Parliament elects Alfred Moisiu as president (97&#x2013;19). He is sworn in July 24. On July 25 Prime Minister Majko resigns. On July 31 Parliament approves (81&#x2013;48) a new government with Socialist Party Chairman Fatos Nano as prime minister, Majko as defense minister, Ilir Meta as foreign minister, and Luan Rama as interior minister; Kastriot Islami remains finance minister. Nano's appointment marks the end of a power struggle between the party leader and his two younger challengers Meta and Majko, both of whom had served as prime minister since Nano resigned the post during a period of civil unrest in 1998. Media analysis suggests that Nano elbowed Meta and Majko aside in a grab for power after realizing that he was too controversial a figure to aspire to the presidency. The European Parliament had urged Albanian legislators to elect a president who would be acceptable to both the governing coalition and the opposition. Moreover, Meta and the outgoing president, Meidani, both openly opposed Nano's candidacy for the presidency. The election of Moisiu essentially sealed the Socialist legislators' compromise with the opposition led by the Democratic Party. Nano and Berisha say that the deal signals that the two rival party leaders have put years of fighting behind them. Moisiu, a 73-year-old retired general, served as president of the Albanian North Atlantic Treaty Association and is considered friendly by the opposition.",
     "The Organization for Security and Cooperation in Europe's chief of mission, Geert-Hinrich Ahrens, praises Albania in his end-of-mission address to the OSCE Permanent Council, reporting that the country is \"in the forefront of reform in the region\" and adding that recent achievements have \"brought Albania to the threshold of opening negotiations for a Stabilization and Association Agreement with the European Union.\" Finnish diplomat Osmo Lipponen succeeds Ahrens on September 1."
   ],
-  "afgan": [
+  "Afghanistan": [
     "<i>2002 loya jirga</i>: Hamid Karzai appointed as President of the Afghan Transitional Administration in Kabul, Afghanistan."
   ]
 }
