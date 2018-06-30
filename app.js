@@ -2,25 +2,18 @@ var fs = require('fs');
 var path = require('path');
 var mergeJSON = require("merge-json"); //https://www.npmjs.com/package/merge-json
 
-var DATA_FOLDER = 'DOWNLOADED_DATA';
+var DATA_FOLDER = 'SOURCE_DATA';
 var distinct = [];
-var count = 0;
-var list_of_countries = ['Afghanistan','Albania','Argentina','Armenia','Australia','Bangladesh','Barbados','Belgium','Bhutan','Brazil','Burma','Burundi','Cambodia','Canada','Chile','China','Colombia','Cuba','Cyprus','East_Timor','England','Estonia','Fiji','France','Georgia','Germany','Haiti','Iceland','India','Indonesia','Ireland','Israel','Italy','Japan','Kenya','Latvia','Lebanon','Malaysia','Malta','Mexico','Nepal','Netherland','Peru','Philippine','Poland','Russia','Rwanda','Serbia','Singapore','Slovenia','Spain','Sudan','Sweden','Switzerland','Syria','Taiwan','Tajikistan','Tanzania','Tonga','USA','Vietnam']; //add country name folder here
-var MASTER_FOLDER = 'MASTER_FOLDER' ;
+// var count = 0;
+var list_of_countries = ["Vietnam","USA","Tonga","Tanzania","Tajikistan","Taiwan","Syria","Switzerland","Sweden","Sudan","Spain","Slovenia","Singapore","Serbia","Rwanda","Russia","Poland","Philippine","Peru","Nepal","Mexico","Malta","Malaysia","Lebanon","Latvia","Kenya","Japan","Italy","Israel","Ireland","Indinesia","India","Haiti","Germany","France","Estonia","England","East_Timor","Cyprus","Cuba","Colombia","China","Chile","Canada","Cambodia","Burundi","Burma","Brazil","Bhutan","Belgium","Barbados","Bangladesh","Australia","Armenia","Argentina","Albania","Afghanistan"]; //add country name folder here
+var MASTER_FOLDER = 'MASTER_DATA' ;
 
-//check if master folder exists..if not create it
-fs.existsSync(MASTER_FOLDER, function (exists) {
-    if (exists) {
-        // console.log(exists)
-    }
-    else {
-        console.log("creating master folder");
-        fs.mkdir(MASTER_FOLDER,function(err){
-            if(err)
-                console.log(err);
-        })
-    }
-});
+
+//CHECK IF MASTER FOLDER EXIST, IF NOT CREATE IT
+var exists = fs.existsSync(MASTER_FOLDER);
+if(!exists)
+    fs.mkdirSync(MASTER_FOLDER);
+
 
 // copy all the files from the first folder to the master folder
 fs.readdirSync(DATA_FOLDER+path.sep+list_of_countries[0]).forEach(function(file){
