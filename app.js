@@ -28,10 +28,7 @@ fs.readdirSync(DATA_FOLDER+path.sep+list_of_countries[0]).forEach(function(file)
 });
 
 
-fs.readdirSync(MASTER_FOLDER).forEach(function(file){
-    console.log('initial conf' + file);
-    
-})
+
 
 //start from the 2nd folder & send all the folders to add the files
 for(var i = 1;i<list_of_countries.length;i++){
