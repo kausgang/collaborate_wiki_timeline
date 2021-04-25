@@ -15,24 +15,15 @@ if(!exists)
     fs.mkdirSync(MASTER_FOLDER);
 
 
-    
-
 // copy all the files from the first folder to the master folder
 fs.readdirSync(DATA_FOLDER+path.sep+list_of_countries[0]).forEach(function(file){
-    
     // https://github.com/jprichardson/node-fs-extra/issues/320
-    // fs.copyFileSync(DATA_FOLDER+path.sep+list_of_countries[0]+path.sep+file,MASTER_FOLDER+path.sep+file,err=>{
+    fs.copyFileSync(DATA_FOLDER+path.sep+list_of_countries[0]+path.sep+file,MASTER_FOLDER+path.sep+file,err=>{
 
-    //     if(err) throw err;
-    //     console.log(file+' was copied to '+master_folder);
-    // });
+        if(err) throw err;
+        console.log(file+' was copied to '+master_folder);
+    });
    
-    
-    var source_file=DATA_FOLDER+path.sep+list_of_countries[0]+path.sep+file
-    var destination_file = MASTER_FOLDER+path.sep+file
-    fs.copyFileSync(source_file,destination_file)
-
-
     
 });
 
@@ -105,14 +96,12 @@ function copy_file(country,master_folder,distinct) {
     distinct.forEach(function(file){
         //copy all the distinct files to master folder
         // https://github.com/jprichardson/node-fs-extra/issues/320
-    //     fs.copyFileSync(country+path.sep+file,master_folder+path.sep+file,err=>{
+        fs.copyFileSync(country+path.sep+file,master_folder+path.sep+file,err=>{
 
-    //         if(err) throw err;
-    //         console.log(file+' was copied to '+master_folder);
-    //     });
-    // });
-    fs.copyFileSync(country+path.sep+file,master_folder+path.sep+file)
-    })
+            if(err) throw err;
+            console.log(file+' was copied to '+master_folder);
+        });
+    });
 }
 
 
